@@ -1,0 +1,1625 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached (before God, and from him) to the Honourable House of Commons. At a publike fast, Novemb. 27. in the yeare GoD Is oVr refVge, oVr strength; a heLpe In troVbLes VerIe aboVnDant VVe finDe. By George Gipps rector of Elston in Leicester-shire, one of the Assembly of Divines. Published by order of the said House.</title>
+            <author>Gipps, George, d. 1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 91 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86017</idno>
+            <idno type="STC">Wing G779</idno>
+            <idno type="STC">Thomason E23_3</idno>
+            <idno type="STC">ESTC R18994</idno>
+            <idno type="EEBO-CITATION">99860529</idno>
+            <idno type="PROQUEST">99860529</idno>
+            <idno type="VID">112651</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86017)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112651)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E23[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached (before God, and from him) to the Honourable House of Commons. At a publike fast, Novemb. 27. in the yeare GoD Is oVr refVge, oVr strength; a heLpe In troVbLes VerIe aboVnDant VVe finDe. By George Gipps rector of Elston in Leicester-shire, one of the Assembly of Divines. Published by order of the said House.</title>
+                  <author>Gipps, George, d. 1654.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Christopher Meredith at the signe of the Crane in Pauls-Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645[i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"GoD Is oVr refVge, .." is a chronogram for 1644.</note>
+                  <note>Running title reads: A sermon preached to the Honourable House of Commons on their monethly fast, Novem. 27. 1644.</note>
+                  <note>Annotation on Thomason copy: "the 5 in imprint date is crossed out and altered to 1644.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms XLVI, 1 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112651:1" rendition="simple:additions"/>
+            <p>A
+SERMON
+PREACHED
+(before God, and from him)
+To the Honourable Houſe of
+COMMONS.</p>
+            <p>
+               <hi>At a publike Faſt,</hi> Novemb. 27. <hi>in the yeare</hi>
+            </p>
+            <q>GoD Is oVr refVge, oVr ſtrength; a heLpe In troVbLes
+VerIe aboVnDant VVe fInDe.</q>
+            <p>By <hi>George Gipps</hi> Rector of <hi>Elſton</hi> in <hi>Leiceſter-ſhire,</hi> one
+of the ASSEMBLY of DIVINES.</p>
+            <p>Publiſhed by ORDER of the ſaid HOUSE.</p>
+            <p>
+               <hi>LONDON,</hi>
+Printed for <hi>Chriſtopher Meredith</hi> at the Signe
+of the Crane in <hi>Pauls</hi>-Church-yard, 1645.</p>
+         </div>
+         <div type="Parliamentary_order">
+            <pb facs="tcp:112651:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Mercurij, 27. Novembr. 1644.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons aſſembled in Par<g ref="char:EOLhyphen"/>liament,
+That M. <hi>Salloway</hi> and M. <hi>Knightly,</hi>
+do from this Houſe give Thanks to M. <hi>Pic<g ref="char:EOLhyphen"/>kering</hi>
+and M. <hi>Gipps,</hi> for the great pains they took
+in the Sermons they preached this day, at the in<g ref="char:EOLhyphen"/>treatie
+of this Houſe at S. <hi>Margarets Weſtminſter,</hi> it
+being a day of publike Humiliation, and to deſire
+them to print their Sermons. And it is ordered,
+That none ſhall preſume to print their or either of
+their Sermons without leave under their or either
+of their hand writing.</p>
+            <closer>
+               <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+I doe appoint Christopher Meredith to
+print this Sermon,
+<signed>GEORGE GIPPS.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:112651:2"/>
+            <head>TO THE HONOVRABLE
+Houſe of COMMONS
+Aſſembled in Parliament at Weſt<g ref="char:EOLhyphen"/>minſter.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Eeing it is made a matter of courſe and
+order, that we ſpeake to you in print; and
+that you preſſe me to the print, which
+whilest I remained a Volunteere I have
+not hitherto been guilty of; <hi>Imprimatur,</hi> I ſay not,
+<hi>Cum Privilegio,</hi> that I am not ſo ambitious to
+challenge; nor <hi>ex mero permiſſu,</hi> this were more
+ambitious to affect: but my preſent ſcantling is, <hi>Juſſu
+Superiorum,</hi> which I cheerefully obey, the rather
+becauſe ſweetned alſo <hi>cum gratia.</hi> For ſo your Or<g ref="char:EOLhyphen"/>der
+phraſeth it, <hi>You are deſired to print,</hi> namely
+by them, who may Command: which is ſo farre
+from weakning, that it ſtrengthneth the Command
+by a double tye of Obedience.<note place="margin">Qui impetrare vo u<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t cum <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>perare poſſunt, ij obligant dum obſecrant.</note> I hope therefore that
+this Sermon may croud through the preſſe, as many
+a meaner perſon doth with others of greater note.
+<pb facs="tcp:112651:3"/>
+Gods Bleſsing go with it, ſo to imprint the truths there<g ref="char:EOLhyphen"/>of
+in the hearts of the Readers, that the uſe thereof may
+be read in the courſe of their lives.</p>
+            <p>I only adde in mine owne behalfe two things: First,
+I having nothing wherein to boast, but mine infirmities,
+both of minde and body, doe confeſſe that I ſhall not be
+able to preſent to your eyes in the ſame dreſſe of words
+that I did to your eares, thoſe ſelfe ſame notions; the no<g ref="char:EOLhyphen"/>tions
+were duly penned, the words not, my memory
+would not beare it; how ever the debt be not payed in the
+ſelfe ſame covne, which I did then tell forth unto you, yet
+I hope you ſhall have the just ſumme in value to your
+content, and my diſcharge, I having withall ſaved the
+burden of carrying in memory the words. Secondly,
+whereas to ſpare the wearying of you, as much as of my
+ſelfe, I did cut off the better part of the laſt point, I ſhall
+now pay down unto you the arrerages not formerly ten<g ref="char:EOLhyphen"/>der'a,
+with whatever was overſeene in the former tel<g ref="char:EOLhyphen"/>ling;
+I returne (with <hi>Joſephs</hi> brethren) with double
+mony in this ſacks mouth. I deſire you to daigne me this
+favour, in lieu whereof for the preſent I ſhall only adde
+that I am</p>
+            <closer>
+               <signed>Your moſt humble Servant in the
+Cauſe of God and of Chriſt,
+GEORGE GIPPS.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:112651:3"/>
+            <head>A Sermon Preached to the Honoura<g ref="char:EOLhyphen"/>ble
+Houſe of Commons on their Mo<g ref="char:EOLhyphen"/>nethly
+Faſt Novem. 27. 1644.</head>
+            <epigraph>
+               <bibl>PSAL. 46. 1.</bibl>
+               <q>God is our refuge and ſtrength, a very preſent helpe in trouble.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His being the firſt verſe of the Pſalme,<note place="margin">Gratiarum a<g ref="char:EOLhyphen"/>ctiapro mira<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us. loſit beneficijs divinis, &amp;c. Quam cane<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at Iſrael, &amp;c. Quem pſalmum eccleſia nunc ca<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it in laudem Dei potenter &amp; mirabiliter eccleſiam &amp; verbum ſuum to ſervantis contra.</note> it is inde<g ref="char:EOLhyphen"/>pendent:
+neither ſhall I trouble you with the
+title of the Pſalme, but only uſher in my Text
+with <hi>Luthers</hi> deſcant upon the Pſalme. It is
+(ſaith he) a thankſgiving to God for his wonder<g ref="char:EOLhyphen"/>full
+benefits, in keeping his Church ſafe from all
+the Enemies thereof, thoſe nations which circled them in on
+every ſide, who both in hoſtile and perfidious manner ſought
+their utmoſt ruine. This therefore the <hi>Iewes</hi> ſang to ſupport
+their faith, and to raiſe their fainting ſpirits in all their extremi<g ref="char:EOLhyphen"/>ties:<note place="margin">1. Hereſes p<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>naticorum ſpi<g ref="char:EOLhyphen"/>rituum. 2. Tor<g ref="char:EOLhyphen"/>que tyrannos.</note>
+which alſo (addeth he) let us now ſing to the honour of
+God, powerfully and miraculouſly preſerving his word and
+Church.</p>
+            <p>Againſt the errours and hereſies of giddy brain'd ſpirits,<note place="margin">3. Impugnatio<g ref="char:EOLhyphen"/>nem, mundi car<g ref="char:EOLhyphen"/>r<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s &amp; peccati.</note>
+            </p>
+            <p>Againſt the power and policy of cruell tyrants.</p>
+            <p>Againſt the baits of ſinne, the world, and the fleſh,</p>
+            <p>Againſt all malice of Satan by all his engineers.<note place="margin">4. Et huic con<g ref="char:EOLhyphen"/>tra portas inſe<g ref="char:EOLhyphen"/>rorum &amp; infi<g ref="char:EOLhyphen"/>nitu<g ref="char:cmbAbbrStroke">̄</g> odum dia<g ref="char:EOLhyphen"/>boli. Luther<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note>
+            </p>
+            <p>A Pſalme in all theſe reſpects as well ſuiting our preſent, as
+both thoſe former times and conditions. Thus therefore we
+<pb n="2" facs="tcp:112651:4"/>
+cloſe with our Text, wherein (according to my uſuall method) I
+propound theſe three things.</p>
+            <list>
+               <item>1. Explication of the ſence of the words.</item>
+               <item>2. Obſervation of their doctrinall truths.</item>
+               <item>3. Application thereof to our owne behoofe.</item>
+            </list>
+            <p>Begin we with the firſt, the Explication, wherein we ſhould
+not at all trouble you with the diverſity of readings of Expoſitors,<note place="margin">Concordia d<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rs, Di<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cord<g ref="char:EOLhyphen"/>dia concors.</note>
+did not their harping upon ſeverall ſtrings make up a full harmo<g ref="char:EOLhyphen"/>ny
+of ſence: ſtrange it is, yet not ſo ſtrange as true, that their
+jarring doth fill up the ſweet muſicall ſence. Breifly my tongue
+ſhall tune them, that your eares may deſeant upon the words in
+order.</p>
+            <p>1. <hi>God,</hi>
+               <note place="margin">58. words.</note> even that God whom <hi>Paul</hi> deſcribeth. <hi>Acts<g ref="char:punc">▪</g>
+               </hi> 17. 24.
+that made the world, and all things therein: that dwelleth not
+in Temples made with hands. <hi>ver.</hi> 28. In whom we live and
+move and have our beeing. This for the firſt word.</p>
+            <p>The 2. followeth, <hi>Is</hi> as we reade it. Others, <hi>ſhall be.</hi> Others
+neither, nor any thing in lieu thereof, but ſimply, <hi>God our re<g ref="char:EOLhyphen"/>fuge.</hi>
+So is the Originall. All which differing readings in one
+give us the full ſence<g ref="char:punc">▪</g> thus. <hi>Experimentally, God is: reſolvedly,
+God ſhall be: pathetically, God our refuge,</hi> an exclamation with ex<g ref="char:EOLhyphen"/>ultation.
+Raviſhed affections utter broken ſentences, with elevati<g ref="char:EOLhyphen"/>on
+of voice, tranſported above rules of Grammer. <hi>Experience of
+Gods mercies paſſed rightly improved, beget reſolution for the time to
+come, and from both an exultation of the heart in admiration of Gods
+mercy.</hi> Let this ſuffice for the ſecond word.</p>
+            <p>The 3. followeth. <hi>Our,</hi> which ſome reade affixed to God,
+thus <hi>our God;</hi> others to refuge, thus, God is <hi>our refuge.</hi> Both
+united give the full ſence, thus, <hi>Our God is our refuge.</hi> Firſt
+make we God our God by Covenant, then may we make him
+our refuge by claime. This for the third word.</p>
+            <p>The 4. followeth. <hi>Refuge,</hi> as we reade it, others <hi>Hope,</hi> others
+<hi>Shelter.</hi> Which three thus differ. Hope is that grace in our hearts,
+which putteth us upon refuge (which ſignifieth a flight, or fly<g ref="char:EOLhyphen"/>ing
+and mooving) by which flight we arrive at ſhelter to repoſe
+our ſelves in. All which three readings joyned make up the full
+<pb n="3" facs="tcp:112651:4"/>
+ſence, thus, <hi>A heart rightly anchored by hope in God, may ſafely fly
+unto him, and ſo doing, ſecurely ſhelter himſelfe in him.</hi> Suffice this
+for the fourth word.<note place="margin">
+                  <hi>Ainſworth.</hi> God will be to us a hopefull ſhelter, and a ſtrength, a helpe in di<g ref="char:EOLhyphen"/>ſtreſſes we ſhall find very great: to wit, a very great helpe in di<g ref="char:EOLhyphen"/>ſtreſſes we ſhall find him, or, he is found; or a helpe in di<g ref="char:EOLhyphen"/>ſtreſſes which we ſhall find very great.</note>
+            </p>
+            <p>The 5. followeth (<hi>And) ſtrength.</hi> Not only ſtrong in the
+concrete, but ſtrength it ſelfe in the abſtract: that is abſolute,
+infinite and alfufficient ſtrength. And ſo it may looke, either back<g ref="char:EOLhyphen"/>ward
+to ſhelter, or forward to helpe. Both are moſt full, thus,
+<hi>God is ſo all ſufficient in ſtrength that who fly to him for ſhelter,
+ſhall certainely have help from him.</hi> This for the fifth word.</p>
+            <p>The 6. followeth (<hi>A) help,</hi> or <hi>helper.</hi> So is it diverſely read.
+The former ſignifieth the quality, the latter the perſon ſo qua<g ref="char:EOLhyphen"/>lified:
+both in one make up our fulnes or comfort. <hi>God who un<g ref="char:EOLhyphen"/>dertaketh,
+is fully gifted and qualified for what he undertaketh:</hi> not
+as many men beare the name of what they have no skill to per<g ref="char:EOLhyphen"/>forme,
+both in Church and State. Let this ſatisfie for the ſixth
+word.</p>
+            <p>The 7. followeth (<hi>In) trouble, or troubles.</hi> So are the ſeverall
+readings;<note place="margin">
+                  <hi>Hieror.</hi> out of the Hebrew reades it thus.</note> all comes up to one full ſence. The former the ſingular
+number, ſo take it diſtributively, <hi>in each and any ſingle trouble
+whatſoever:</hi> the latter the plurall number,<note place="margin">Deus noſtra ſpes &amp; fortitu<g ref="char:EOLhyphen"/>do, auxilium in tribulationibus inventus es va<g ref="char:EOLhyphen"/>lidum. <hi>And out of the Sep<g ref="char:EOLhyphen"/>tuagints thus.</hi>
+               </note> ſo take it collectively,
+<hi>in all troubles doubled and multiplyed how many ſoever.</hi> The next
+word will perfect theſe, which we paſſe unto.</p>
+            <p>The 8. and laſt word (or rather words and phraſe) <hi>very preſent,</hi>
+ſo we reade it: but the originall with divers tranſlations expreſſe
+the verbe <hi>Find,</hi> and that either thus, <hi>we ſhall find very preſent,
+great, aboundant: yea too too preſent, great and aboundant.</hi> And all
+theſe ſeverall readings are the leaſt part of the variety of their
+expoſitions;<note place="margin">Deus noſter reſugium &amp; virius adiutor in tribulationi<g ref="char:EOLhyphen"/>bus quae im<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>nerunt nos ni<g ref="char:EOLhyphen"/>mis. <hi>Whom</hi> Auguſtine <hi>and generally the ancients fol<g ref="char:EOLhyphen"/>low,</hi> Ambroſi<g ref="char:EOLhyphen"/>us <hi>thus gloſ<g ref="char:EOLhyphen"/>ſeth on it.</hi> Be.</note> for as much as ſome, to fill up the ſence, doe
+joyne them to (<hi>helpe</hi>) thus: <hi>we ſhall find</hi> (God) <hi>a very preſent, yea
+too too preſent, great and aboundant help:</hi> others to <hi>troubles</hi> thus:
+God <hi>a helpe in very preſent, yea too too preſent, great and aboundant
+troubles which we ſhall find.</hi> A third ſort joyne both in one, and
+take all together, as the moſt full ſence, thus, <hi>Gods Saints in
+this life are ſure to find very preſent, great and aboundant troubles,
+yea too great for them</hi> to beare, but that their comfort is, that
+they are <hi>as ſure to find God a very preſent, great and aboundant helpe
+in all thoſe their troubles:</hi> yea <hi>too great to be overcome by them.</hi> Some
+<pb n="4" facs="tcp:112651:5"/>
+more varieties of readings there are of leſſe moment, which I
+ſhall paſſe over when I ſhall have acquainted you with <hi>Auguſtins</hi>
+deſcant: namely,<note place="margin">
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>atimes &amp; ad <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>atorem: ut <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>culati<g ref="char:EOLhyphen"/>ones abundant, ad<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>at Moll<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>us Deus nobis pro<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> obur, aux<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. in tribu<g ref="char:EOLhyphen"/>laationibus abualè, <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>entus eſt val<g ref="char:EOLhyphen"/>dè.</note> in as much as the verbe (<hi>finde</hi>) may alſo be
+read (<hi>Be found</hi>) paſſively: <hi>we find in the world outward troubles:
+but me are found of our ſinnes, which doe dogge us home to our con<g ref="char:EOLhyphen"/>ſciences,
+troubling them:</hi> and theſe are thoſe too too great troubles:
+but herein alſo is our comfort, that <hi>we are found of God as a helpe in
+this moſt deſperate caſe alſo:</hi> For ſo, <hi>Acts<g ref="char:punc">▪</g>
+               </hi> 2. upon <hi>Peters</hi> prea<g ref="char:EOLhyphen"/>ching
+their crucifying of the Sonne of God, their ſinne found
+them out, that they were pricked at the heart, and cryed out,
+what ſhall we doe? yet heard this word of comfort, Repent
+and be baptiſed for the remiſſion of your ſinnes, and ye ſhall re<g ref="char:EOLhyphen"/>ceive
+the gift of the holy Ghoſt. What may not be forgiven
+when this is forgiven, for a patient to kill his Phiſitian comming
+to cure him: yea and ſo forgiven, as the bloud of that Phiſitian,
+which they let out, is given him to drinke for his perfect cure:
+Thus <hi>Auguſtine.</hi>
+               <note place="margin">Non invene<g ref="char:EOLhyphen"/>rum peccata <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ua ſea inventi<g ref="char:EOLhyphen"/>ſunt in eis: ſed <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nerunt ad<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>torium: Quid <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>us agro quam <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> dimit<g ref="char:EOLhyphen"/>ditur, quid non <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ttitur? ag<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ite &amp; bap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>zemint, <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s. Au<g ref="char:EOLhyphen"/>ſtin.</note> Give me leave to adde one thing more to com<g ref="char:EOLhyphen"/>pleat
+the ſence, and ſo put an end to the firſt generall part pro<g ref="char:EOLhyphen"/>pounded,
+the explication of the words. There being no other
+verbe in the Originall Hebrew expreſſed but this, <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inde:</hi> not that
+other, <hi>is,</hi> or <hi>ſhall be,</hi> nor any other in liew thereof, what ne<g ref="char:EOLhyphen"/>ceſſity
+is there that we ſupply any? but ſtring all the words of
+our text upon this verbe, <hi>Find</hi> (which we find in the Hebrew)
+and let it runne through them all, making one entile rich chaine
+thus, <hi>we ſhall find God our refuge, ſtrength and very preſent helpe in
+trouble:</hi> thus in our Engliſh; not to repeat the deſcants any
+more. Thus of the explication.</p>
+            <p>The ſecond generall followeth, Obſervation of the doctri<g ref="char:EOLhyphen"/>nall
+truths: where give me leave, firſt to recount all thoſe hither<g ref="char:EOLhyphen"/>to
+found out, and thence to cull out ſome choice ones.</p>
+            <p>Liſt, Owne we that one only God that made all, &amp;c. as
+<hi>Acts</hi> 17.</p>
+            <p>Second, Reſt we not, untill we have made this God our God,
+by moſt ſure and firme covenant.</p>
+            <p>Third, So doing, wee may ſecurely anchor our hope in him.</p>
+            <p>Fourth, So hoping, we may in all ſtraights fly unto him.</p>
+            <p>Fifth, So flying, he will give us ſhelter and harbour.</p>
+            <p>
+               <pb n="5" facs="tcp:112651:5"/>
+Sixth, And yet no tottering ſhelter, but of ſtrength alſuffici<g ref="char:EOLhyphen"/>ent.</p>
+            <p>Seventh, Yet not ſecuring us from finding troubles very pre<g ref="char:EOLhyphen"/>ſent,
+great and aboundant, exceeding our ſtrength to beare.</p>
+            <p>Eighth, Yet with this comfort, that in all of them we are
+ſure to find God a more preſent, great and aboundant helper, moſt
+able and willing to helpe us through.</p>
+            <p>Ninth, Haſten we to find out our ſinnes by repentance, leaſt
+that we be found out by them in an accuſing conſcience.</p>
+            <p>Tenth, Yet even therein is our comfort, that we ſhall upon
+our repentance for the moſt hainous ſinnes, be found out of
+God in pardon and forgiveneſſe; yea if we are of the election
+of grace, we ſhall be ſought and found out of God, to bring us to
+repentance and ſalvation.</p>
+            <p>Laſtly, from all this joyntly in one, let us ſo gather experiments
+of what is paſt, as to ſettle our reſolution for that which is to
+come, and from both exult we with elevation both of heart and
+voice; <hi>We ſhall find God our refuge, and strength, a very preſent
+helpe in trouble.</hi>
+            </p>
+            <p>A Text full of comfort, were we as full of faith to improve it
+with beſt advantage to our ſoules.</p>
+            <p>But however all theſe are excellent divine truths, and might
+plentifully be made good out of Gods word: yet in as much as
+they are but ſeverall deſcants, yea and diſcords, upon our text,
+although thus ſtruck into muſicall harmony; I ſhall rather
+containe my ſelfe within the plain ſong thereof, held forth unto
+you in theſe three following Propoſitions.</p>
+            <p>
+               <hi>Firſt,</hi>
+               <note place="margin">A three-fold Propoſition.</note> That it is the Portion of Gods Church and Children to finde
+in and through this life very preſent (yea too too preſent) great and
+aboundant troubles, for them to wade thorough.</p>
+            <p>
+               <hi>Second,</hi> That it is the wiſdome of Gods Church and Children, to
+make God their hope, refuge, and ſhelter in all theſe troubles.</p>
+            <p>
+               <hi>Third,</hi> That it is the comfort of Gods Church and Children, that ſo
+doing they ſhall find God a very preſent (yea too too preſent) great and
+aboundant helpe in all theſe troubles.</p>
+            <p>Thus we have paſſed from our firſt Branch of our Method pro<g ref="char:EOLhyphen"/>pounded,
+namely the Explication of the ſenſe of the words, unto
+<pb n="6" facs="tcp:112651:6"/>
+the ſecond branch thereof, the Obſervations doctrinall: which in
+their method we proceed to handle, with their Uſe and Appli<g ref="char:EOLhyphen"/>cation.</p>
+            <p>Only to ſave multiplyed labour, theſe three points being ſo in
+nature linked together, that very many Texts of Scripture doe
+prove them all joyntly, we will premiſe thoſe Scripture proofes,
+and referre you thereto in the ſeverall and diſtinct handling of the
+points. Thus <hi>Pſal.</hi> 18. generally throughout: particularly, <hi>ver.</hi> 4.
+<hi>The ſorrowes of death compaſſed me, the flouds of ungodly men made
+me afraid,</hi> ſo ver. 5. there is the firſt point. Ver. 2. <hi>My God, my
+rocke, my fortreſſe, my ſtrength, my buckler, my high tower, in whom
+I will truſt:</hi> there is the ſecond point. ver. 2. <hi>my deliverer.</hi> ver. 3. <hi>l
+will call upon the Lord, ſo ſhall I be ſaved from mine enemies,</hi> ver. 48.
+<hi>He delivereth me from mine enemies.</hi> &amp;c. there is the third point.
+So <hi>Pſal. 34. 19. Many are the afflictions of the Righteous</hi> (the firſt
+point) <hi>but the Lord delivereth him out of all</hi> (the third point) v. 22.
+<hi>None that truſt in him ſhall be deſolate</hi> (the ſecond and third point
+joyntly) ſo inweaved into all the Pſalm. So frequently elſe<g ref="char:EOLhyphen"/>where:
+we ſhall occaſionally overtake them in our following
+diſcourſe: wherefore enter we upon our firſt Propoſition.</p>
+            <p>
+               <hi>That it is the Portion of Gods Church and Children to find in this
+life very (yea too too preſent) great and aboundant troubles.</hi>
+               <note place="margin">The firſt Pro<g ref="char:EOLhyphen"/>poſition.</note> The ra<g ref="char:EOLhyphen"/>tifying
+of which truth ſhall be, firſt, in a briefe enumeration of
+theſe troubles. Secondly, in deducing thence Concluſions.
+For the firſt; <milestone type="tcpmilestone" unit="unspecified" n="2"/> The troubles in this life are either Temporall, or
+Spirituall.<milestone type="tcpmilestone" unit="unspecified" n="3"/> Temporall, are either reſpecting temporall life it
+ſelfe, death, with paines, and ſickneſſe tending thereto: or re<g ref="char:EOLhyphen"/>ſpecting
+the Accommodations thereof, as poverty, and ſo want of
+convenient meat, drinke, cloathing and dwelling; alſo infamy,
+and ſo ſcorne, diſgrace, contempt, ſlander (to choiſe ſpirits this
+moſt ſeazeth on the braine.) Spirituall troubles are the body of
+imbred concupiſcence, that ſnake in our boſome: thence fowle
+temptations to actuall ſinnes, too much prevailing, ſometimes
+to groſſ ſcandall: thence often ſpirituall deſertions, God writing
+bitter things againſt us, and giving us up to Satans buffettings.
+More, and farre more accurately might we reckon them; but
+this will ſuffice to inferre hence,</p>
+            <p>
+               <pb n="7" facs="tcp:112651:6"/>
+Our following Concluſions,<note place="margin">2. 4. Concluſions.</note> which are theſe foure:</p>
+            <p>Firſt,<milestone type="tcpmilestone" unit="unspecified" n="1"/> All theſe evils are common to all <hi>Adams</hi> off-ſpring,
+both godly and wicked alike in this life. <hi>Eccleſ.</hi> 9. 1. None know<g ref="char:EOLhyphen"/>eth
+love or hatred by all that is before them. ver. 2. All commeth
+alike to all, to the righteous and to the wicked. v. 3. One event is
+unto all.<milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <note place="margin">
+                  <hi>Iob</hi> 5. 6, 7, proves both the firſt &amp; the ſecond Con<g ref="char:EOLhyphen"/>cluſion: in that it is ſaid born, not created thereto. This deluge brake in by our tall.</note> Secondly, this common condition did not flow from
+our creation by Gods ſoveraigne right of dominion, but is an act
+of Gods juſtice upon <hi>Adams</hi> fall, Gods puniſhment upon all his
+poſterity, whereby the whole world of creatures is curſed unto
+them, as <hi>Gen.</hi> 3. appeares the execution of that doome, <hi>Gen. 2. In
+the day thou eateſt thereof thou ſhalt ſurely die.</hi> Thirdly, yet in the
+upſhot thereof ſhall be a vaſt difference between the Godly and
+wicked, even, as vaſt, as there is a diſtance betweene the higheſt
+Heaven and the loweſt hell. <hi>Matt.</hi> 25. 32. ſeparate them as the
+goates and ſheep,<milestone type="tcpmilestone" unit="unspecified" n="3"/> with a <hi>Come ye bleſſed,</hi> v. 34. &amp; v. 41. <hi>Depart yecurſed.</hi>
+v. 46. and the righteous ſhall goe into life eternall, and the
+wicked into everlaſting puniſhment.<milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, In the interim
+the one and the other doe quite contrarily entertain, and improve
+theſe troubles: For firſt, the ungodlies great trouble is their tem<g ref="char:EOLhyphen"/>porall
+evils, ſo as in compare thereof they are inſenſible of ſpiritu<g ref="char:EOLhyphen"/>all
+ones, (except ſuch as diſquiet their temporall injoyments) The
+godly are quite contrary herein. For ſecondly, whereas the un<g ref="char:EOLhyphen"/>godly
+would never be weary of ſin, even though wearied in ſin,
+but covet to be able to ſin infinitely, and rejoyce in life it ſelfe
+with all the accommodations thereof, only ſo farre as they inable
+them to glat themſelves with their luſts, though there be (how
+much more if there were not) an internall hell of Conſcience,
+and infernall hell of torments to follow: the godly (ſteeme a
+ſinning condition to be the moſt helliſh condition, and perfect
+holineſſ: they eſteeme the top-branch of their eternall happineſſe.
+And thirdly, whereas the wicked could be contented never to ſee
+God face, and enjoy his favour in Heaven, ſo that they might ne<g ref="char:EOLhyphen"/>ver
+find his frowne and feele his wrath in hell; the righteous on
+the contrary acknowledge Gods favour better then life it ſelfe,
+in whoſe preſence is fulneſſe of joy, and at whoſe right hand are
+pleaſures for evermore.</p>
+            <p>Let this ſuffice for the Doctrinall part of this firſt Propoſition:<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>1</label>
+               <pb n="8" facs="tcp:112651:7"/>
+the firſt uſe whereof is, for ſatisfaction of that querulous query:
+why God will be ſo harſh to his owne children, as the doctrine
+doth hould forth. The anſwer to which is two-fold. Firſt, that
+he ſeemeth ſo, in putting them into a common condition with
+others in the kindes of their ſufferings: but truly is not ſo, through
+the vaſt difference, not only in the cloſe, but in carrying them
+along throughout all their ſufferings, All doth co-work for their
+ſpirituall and eternall good, as hath in part and will occaſionally
+be more fully ſpecified. <milestone type="tcpmilestone" unit="unspecified" n="2"/> A ſecond further anſwer is: that this
+Gods providence ſuiteth beſt with his moſt wiſe diſpenſation:
+thus.<milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, did the Godly wholy eſcape, and the wicked only
+ſuffer troubles, this would make ſuch multitudes of mercinarie
+formall Chriſtians, that ſincerity would not be diſcerned nor
+valued: whereas ſeeing that we muſt through many tribulations
+enter into the kingdome of heaven, it ſo ſlaveth off hypocrites,
+that it is a notable tryall to ſincerity it ſelfe. Satan thought it
+little to <hi>Iobs</hi> commendations,<note place="margin">Iob. 1. 9.</note> that he ſerved God whilſt that
+God had made an hedge about him, but thought that afflictions
+would have ſtaggered and ſhattered his faith, though that <hi>Iob</hi>
+confuteth him therein, which was a great foyle to Satan. Many
+can ſwallow dry meat for the pleaſantnes of the ſauce. Therefore
+God orders Chriſtian profeſſion to have ſower ſauce, to ſee if we
+will imbrace it meerly and intirely for Chriſt his ſake. Second<g ref="char:EOLhyphen"/>ly,
+on the contrary; did the wicked only eſcape, and the godly
+only were troubled; this would too much daunt theſe, and in<g ref="char:EOLhyphen"/>courage
+thoſe: ſeeing, that though it be not ſo, yet the waters
+appeare too troubled. How did <hi>Iohs</hi> friends charge him for an hy<g ref="char:EOLhyphen"/>pocrite,
+becauſe God had ſo afflicted him? which proved ſo great
+a tryall, that in the like caſe it did ſtagger <hi>David,</hi> and ſwelled
+up his adverſaries, that the Church ſuffered, and they proſpered.
+Yea this moved patient <hi>Moſes</hi> to be ſo ſtrangely importunate
+with God, not to deſtroy <hi>Iſrael</hi> in the wildernes, leaſt the <hi>Egyp<g ref="char:EOLhyphen"/>tians</hi>
+ſhould ſay,<note place="margin">Exod. 32. 11, 12 Numb. 14. 16.</note> God brought them forth of <hi>Egypt</hi> for miſchiefe,
+to ſlay them in the mountaines; Yea, becauſe not able to bring
+them into <hi>Canaan.</hi> Therefore Gods wiſdome hath ordered it,
+that his juſtice ſhall be ſatsfied by all ſuffering alike troubles, and
+his grace and mercy ſhewed, by ſo ſanctifying troubles unto his
+<pb n="9" facs="tcp:112651:7"/>
+childrens good, both of Grace and of Glory.<note place="margin">See more here<g ref="char:EOLhyphen"/>of hereafter</note>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>2</label> A ſecond Uſe is Exhortation, that we ſhuffle not off troubles
+when God ſendeth them, but patiently imbrace, and ſanctifiedly
+improve them: for feare that God double and treble them upon
+us for this our avoiding this common portion of mankind, a
+more ſpeciall livery which Chriſt (even ſince he was clad him<g ref="char:EOLhyphen"/>ſelfe
+therewith) hath put upon all his diſciples to weare.<note place="margin">2. Tim. 2. 12</note> Had
+we in <hi>England</hi> thus ſympathiſed with the Churches in <hi>Germany,</hi>
+and <hi>France,</hi> yea, more lately of <hi>Ireland,</hi> and <hi>Scotland,</hi> by Prayers
+and teares for them, with other ſuccour and aide, according to
+their neceſſities and our abilities, together with ſelf-reformation,
+moſt probably we might have eſcaped this fierce ſtorme, that is
+now pouring downe upon our own pates,<note place="margin">Ezek. 9. 4, 5, 6. Amos 6. 1, 3, 6, 7. Matth. 11. 17.</note> even therefore becauſe
+we did put farre off the evill day, when God ſummoned us to it.
+But alack we are ſo farre from ſharing with our Brethrens ſuffe<g ref="char:EOLhyphen"/>rings,
+that we will not owne that generall charge of all Chriſti<g ref="char:EOLhyphen"/>ans
+at all times, to be crucified to the world, and the world unto
+us: to uſe the world as if we uſed it not, by ſitting looſe unto it,
+and not faſhioning our ſelves after it, with the like, which in the
+middeſt of proſperity we ſhould doe, and yet in our moſt ſad pre<g ref="char:EOLhyphen"/>ſent
+condition (when ſummoned to mourning and faſting) we
+pleaſe our ſelves in the vaine delights of worldlings, that never
+knew nor taſted better, yea, and that with pleading for, and pra<g ref="char:EOLhyphen"/>ctiſing
+of the ſame, and that by Miniſters of Chriſt, who would be
+counted faithfull. I never heard nor ſaw the like in all my life,
+untill within theſe very few dayes; in ſo much as when I came
+up to <hi>London,</hi> (upon your Summons unto this preſent publike
+imployment) and was ſhewed ſuch and ſuch Divines of note, I
+had much adoe to beleeve it, and ſtill it lieth as Lead at my heart,
+to conſider what ruffianly haire, what Cavalerian garbe of cloths,
+with anſwerable diet we are fallen upon, even in theſe ſad times,
+as eaſie and looſe herein, as rigid and ſtrict in what is both of
+ſmaller evidence and conſequence. Let me eaſe my heart, and
+diſcharge my Conſcience in ſome meaſure herein. As the King<g ref="char:EOLhyphen"/>dome
+of Heaven ſtands not in meats and drinks, ſo the heires of
+this Kingdome ſhould not ſtand ſo much for them, nor take care
+for wordly pomp and pleaſure: <hi>for after all theſe things ſeeke the
+<pb n="10" facs="tcp:112651:8"/>
+Gentiles,</hi>
+               <note place="margin">Matt. 6. 32, 33.</note> this is Chriſts argument, namely, becauſe they want
+better, as in the oppoſition followeth: <hi>but ſeek ye firſt the King<g ref="char:EOLhyphen"/>dome
+of God:</hi> and having met with ſuch choiſe game, ye will
+never ſtoope to, nor ſtraine for ſo poore delights: as the Grey<g ref="char:EOLhyphen"/>hound,
+that is well enter'd at the ſtately Deere, will never again
+ſtraine hard after the ſilly goe-by-ground Hare. Out voluntary
+exemplar abſtinence ſhould evidence, not that we are not wor<g ref="char:EOLhyphen"/>thy
+of the world, but that it is not worthy of us: not that theſe
+things are too good for us, but we for them to place our affecti<g ref="char:EOLhyphen"/>ons
+thereon: ſhall we, becauſe we refuſe to have holy veſtments
+pinned on us by Canon, confute this no way, but by all looſe,
+new, coſtly attire, and faſhions, Cavaleere-like, that nothing of
+our outſide may have any colour, or ſhew of gravity, and mo<g ref="char:EOLhyphen"/>deſty?
+Certainly it was not ſo within theſe few yeares, when
+the poore fugitives poſted to new <hi>England</hi> in another cut of
+haire and clothing. True, <hi>by their fruits you ſhall know them:</hi> and
+are not temperance and modeſty ſome of theſe fruits? In ſo many
+thouſand plants, which God hath created, the Herbaliſt is able to
+diſtinguiſh each one, not only by their fruits, but even by their
+leafes alſo, both for colour and cut: and ſure our outward dreſſe
+(with your leave) may anſwer thereto, if not unto fruits. Whe<g ref="char:EOLhyphen"/>ther
+doe the Divines of other Reformed Churches, who owne
+no holy veſtments, take this Chriſtian Liberty (if not rather un<g ref="char:EOLhyphen"/>chriſtian
+licentiouſneſſe) to themſelves? How ſhall we weane
+others from that teat, which we ſo banker after our ſelves? A
+Law from great Perſons that poore men kill not Deere and
+Partridge, whilſt themſelves doe it ſo eagerly, breeds the higher
+eſteeme thereof, and a more longing deſire to doe the like, and
+yet there are in our like caſe, who, having no colourable plea
+for it, feare no colours to doe it. But I take up, and crave par<g ref="char:EOLhyphen"/>don,
+that I have ſo eagerly followed the game, whilſt in view, O
+that it may prove the hunting it to death, and then I ſhall thinke
+it labour well ſpent.</p>
+            <p>I adde as briefly a third Uſe,<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> namely Exhortation, that we
+make and keep Covenant with God to be our God: and breake
+not with him, ſo will not he breake with us: By Faith, Feare,
+Love, and univerſall Obedience to his whole revealed will, the
+<pb n="11" facs="tcp:112651:8"/>
+only effectuall meanes to take us off from the world, and ſo to
+improve aright the former Uſe, <hi>Deut.</hi> 4. 29, 30, 31. which I com<g ref="char:EOLhyphen"/>mend
+to your reading, and ſo</p>
+            <p>I paſſe unto the ſecond Propoſition,<note place="margin">The ſecond Propoſition.</note> namely, <hi>That it is the wiſ<g ref="char:EOLhyphen"/>dome
+of Gods Church and Children, to make God their hope, refuge,
+and ſhelter in all theſe their troubles.</hi> The proofe of Scripture I
+gave you in the generall of all the three Doctrines; we ſhall now
+adde the demonſtrative grounds of reaſon, which are ſummarily
+theſe twaine. Firſt, becauſe in God is full, certaine, and ſuffici<g ref="char:EOLhyphen"/>ent
+helpe in all troubles. Secondly, becauſe out of God in no
+Creature, no not in all the Creatures, is there full, certaine, and ſuf<g ref="char:EOLhyphen"/>ficient
+help. If theſe two be as ſtrongly confirmed, as they are
+eaſily affirmed, I am ſure you cannot queſtion the validity of
+their proofe: For as much as inſtinct of nature teacheth every
+creature to fly thither for ſhelter, where it hopeth for help, and
+ſuccour;<note place="margin">Pſal. 104. 18. Prov. 30. 26.</note> as both <hi>David</hi> and <hi>Salomon</hi> tell us, that the Conies fly
+unto the holes of the rockes, as the Goats to the ſteep craggy tops
+thereof. Our only work therfore is, to make good theſe 2. reaſons.</p>
+            <p>The former one being the affirmative, and the expreſſe third
+Doct. we ſhall meet with it ſeaſonably there.</p>
+            <p>In the meane time cleare we here the latter negative one, that
+out of God, in no one, no not in all the creatures in one, is full, cer<g ref="char:EOLhyphen"/>tain,
+and ſufficient help: and that by theſe three Reaſons.</p>
+            <p>Firſt,<label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> becauſe all creatures are but inſtrumentall ſubſervient
+helps under God, in and for God, how, and how farre he plea<g ref="char:EOLhyphen"/>ſeth:
+who ſtoppeth, turneth, routeth, and overturneth them all
+at his pleaſure: therefore in them, out of him, is no ſafe repoſe
+for helpe; Lions, fire, water, winds, ſeas; yea, devils, and all the
+hoſtes of Creatures are wholly at his beck, who biddeth one goe,
+and he goeth; another ſtay, and he ſtayeth, as the Centurion ſaid
+to Chriſt, deſiring him thereupon to ſay the word only, and his
+ſervant ſhould be whole. We have plenty of Scriptures to ſhew
+this in particulars, and ſhall hereafter mention ſome of them.</p>
+            <p>The ſecond reaſon is, becauſe theſe inſtrumentall helps (ſuch
+as they be) are likewiſe but partiall and particular helps,<label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> ſome in
+one kind, ſome in another, none in all, no not all joyned in one
+ſufficient help in all troubles, though God bleſſe them with the
+<pb n="12" facs="tcp:112651:9"/>
+utmoſt improvement of that naturall faculty, whereby he hath
+inabled them to act and work.<note place="margin">In the firſt Creation, as well as in <hi>No<g ref="char:EOLhyphen"/>abs</hi> floud, the waters covered the ſurface of the whole earth, &amp; ſhould perpetually do ſo, bu<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Gods <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. be diſ<g ref="char:EOLhyphen"/>penſed there<g ref="char:EOLhyphen"/>with for the good of man.</note> Fire heateth and drieth, but with<g ref="char:EOLhyphen"/>all
+it burneth and conſumeth, but that water moiſtneth and coo<g ref="char:EOLhyphen"/>leth:
+water moiſtneth and cooleth, but withall it ſinketh and
+drowneth, did not earth ſupport; earth ſupporting we ſhould be
+ſoon ſmothered without aire to breathe in: and it with all would
+make up but a vaſt dungeon, did not the heavens inlighten, by
+which, with their other influence, they make all the elements
+fruitfull and ſerviceable for the uſe of man. Hence had the
+Heathen ſo many gods, as they had ſeverall helpers, for that they
+knew not that they were one Gods arbitrarie inſtruments to
+doe his pleaſure, which Gods revealed will hath cleared unto us.</p>
+            <p>
+               <hi>Obj.</hi> But here may be objected: I but God thus bleſſing each
+creature to act his part, they all joyntly can afford ſufficient help
+in all our wants and neceſſities?</p>
+            <p>
+               <hi>Anſwer.</hi> As he that tryeth to pluck up a tree, if it ſettle after
+that ſhaking, it taketh faſter root, ſo will this ſecond reaſon be
+much firmer upon anſwer to this objection, that hath ſeemed to
+looſen it: which I ſhall render three-fold.</p>
+            <p>Firſt,<label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> grant we what is ſuppoſed in the objection, yet were it
+more wiſe, ſafe, generous, and comfortable, to goe at once imme<g ref="char:EOLhyphen"/>diately
+to God, then ſeverally and ſcatteringly to the creatures
+for help; it is both the ſhorter cut, and the ſecurer way: eſpeci<g ref="char:EOLhyphen"/>ally
+being ſo graciouſly invited <hi>Pſal.</hi>
+               <note place="margin">
+                  <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ulcius ex ipſo ſonte, &amp;c.</note> 50. 15. <hi>Call upon me in the
+day of trouble, I will deliver thee, and thou ſhalt</hi> hereby <hi>glorifie me.</hi>
+Who will ſcrape to a keeper for a piece of Veniſon, who may
+have free acceſſe to the maſter of the game to aske and have?</p>
+            <p>A ſecond anſwer is,<label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>2</label> But ſo it is not, we recall what was gran<g ref="char:EOLhyphen"/>ted.
+For God reſerveth to himſelfe his Royall Power Paramount
+to underwrite his <hi>Fiat</hi> in all the workings of all his creatures,
+without which all is null and voide (<hi>ipſo facto</hi>) they will not,
+they dare not, they cannot doe it. God preſently withdrawes
+his bleſſing from the creature, when man neglecteth him, and re<g ref="char:EOLhyphen"/>ſteth
+on it. And the ground of equity herein is full of comfort:
+namely God doth all this in much grace and mercy unto man,
+that man in a conſtant free kind of familiarity may have recourſe
+unto himſelfe, who without theſe occaſions and invitations,
+<pb n="13" facs="tcp:112651:9"/>
+would ſerve God as many graceleſſe children have ſerved their pa<g ref="char:EOLhyphen"/>rents,
+when they have put the ſtaffe wholly out of their own
+hands ſo that the child hath no farther hope to get any more from
+them, they ſlight them, and neglect all obſervance of them. As
+it was with the Prodigall ſonne in the Goſpel, who having recei<g ref="char:EOLhyphen"/>ved
+his portion from his Father, went into a farre country, and
+returned not untill he wanted bread to ſatisfie hunger; whereas
+on the contrary, neceſſity enforceth us, as the caſe now ſtandeth,
+to have daily recourſe to God, and ſo uſe bringeth onward to de<g ref="char:EOLhyphen"/>light
+therein. Hence our Saviour moſt wiſely teacheth us to pray,
+<hi>Give us this day our daily bread,</hi> to enforce upon us a daily duty, to
+crave from hand to mouth, if not rather from mouth (in prayer) to
+hand; and this is the true ground and reaſon of the duty of pray<g ref="char:EOLhyphen"/>er,
+and praiſing of God; not to enforme him of our wants, who
+knoweth them better then our ſelves; nor to quicken him to ſup<g ref="char:EOLhyphen"/>ply
+our wants, who is more ready to give, then we to aske, and
+preventeth us with requiſites uncraved; leaſt of all that he hath
+any need of, or advantage by our ſervice, to whom the whole
+creation can adde nothing, neither doth he want any thing; nor
+any the like reaſons; but meerly and purely in mercy and grace he
+will have us ſee our wants, know where is the ſpring-head for
+ſupply,<note place="margin">1. Tim. 3. 4, 5.</note> and to have recourſe thereto, to beget in us his Saints and
+ſervants a delight to converſe with him, as he dealt with <hi>Adam</hi>
+in Paradiſe, to ſtabliſh us in our new creation. The more is their
+ſin who neglect ſo great grace offered unto them.</p>
+            <p>Take the third and laſt anſwer to the objection,<label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>3</label> namely againe
+that it is not ſo; becauſe (beſides what is ſaid) God reſerveth
+ſome choiceſt bleſſings for himſelf immediately to beſtow upon
+his children without the helpe of any creature, and beyond the
+courſe of nature; namely election, redemption, juſtification, ſan<g ref="char:EOLhyphen"/>ctification
+and glorification, with all ſpirituall gifts; wherein if
+we ſhall runne to any creature (though but as meanes) for aide,
+even glorified Saint or Angel, or to our owne merits (<hi>ipſo facto</hi>)
+we make all void, and doe out our ſelves of Gods grace, Pſal. 73.
+24, 25, 26. <hi>Whom have I in Heaven but thee, and none in earth that I
+deſire beſides thee—Thou art my portion;</hi> which truth doth utterly
+rout the Papiſts in their doctrine of merit; of invocation of Saint
+or Angel whatſoever.</p>
+            <p>
+               <pb n="14" facs="tcp:112651:10"/>
+And if any ſhall here farther object, that God uſeth his mi<g ref="char:EOLhyphen"/>niſtry
+and ordinances as meanes in this behalfe. To this we an<g ref="char:EOLhyphen"/>ſwer:
+Firſt not colourably ſo in matter of Election and glorifica<g ref="char:EOLhyphen"/>tion:
+no nor of Redemption, wherin Chriſt alone is intereſted,
+God bleſſed for ever. Secondly, I ſay in the reſt, theſe meanes
+are not naturall within the compaſſe of the creation, but ſuper<g ref="char:EOLhyphen"/>naturall,
+immediately from God, from heaven ſent for thoſe ends,
+as are thoſe ends themſelves. Thirdly, ſuch as they are theſe
+meanes do wholy worke ſupernaturally and arbitrarily, not na<g ref="char:EOLhyphen"/>turally
+and neceſſarily; only when, where, how, and how
+free God pleaſeth: yea and when ſo, it is not in vertue of any
+infuſed inherent quality in them: but immediately from God,
+by the concurrence of his grace, in our uſe of his means preſcri<g ref="char:EOLhyphen"/>bed,
+in obedience of faith unto him. Fier burneth, and water
+wetteth by vertue of inherent qualities from God, therefore
+they do ſo burne and wet all alike, who are at alike diſtance and
+alike diſpoſed; but the Miniſterie converteth one when not 99.
+at one time, when not at twenty other times, by one mans
+miniſterie, when not by others, without any difference, yea
+often with diſadvantage on the creatures part, only by the gra<g ref="char:EOLhyphen"/>cious
+pleaſure of our good God, as is aforeſaid, 1 <hi>Cor. 2. 3. I
+was with you in weakeneſſe and much feare,</hi>
+               <note place="margin">
+                  <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Chapters. <hi>Cathedra<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</hi>
+               </note> ver. 4. <hi>And my prea<g ref="char:EOLhyphen"/>ching
+was not with entiſing words of mans wiſedome, but in demon<g ref="char:EOLhyphen"/>ſtration
+of the spirit and power</hi> (namely of the ſame ſpirit, per<g ref="char:EOLhyphen"/>fected
+in my weakeneſſe) ver. 5. <hi>That your faith ſhould not ſtand
+in the wiſdome of men, but in the power of God.</hi> Chap. 1. 23. <hi>We
+preach alike to all,</hi> but ver. 26. <hi>Yee ſee your calling, that not many
+wiſe, mighty, noble,</hi> ver. 27. <hi>but the fooliſh and weake things of
+the world to confound the wiſe and mighty,</hi> ver. 31. <hi>that he that glo<g ref="char:EOLhyphen"/>rieth
+ſhould glorie</hi> (ver. 29. onely) <hi>in the Lord,</hi> Rom. 9. 15. <hi>I
+will have mercie on whom I will have mercie,</hi> ver. 16. <hi>It is not in
+him that willeth, nor in him that runneth, but in God that ſheweth
+mercie,</hi> ver. 18. <hi>yea and whom he will he hardeneth.</hi> Act. 16. 13. <hi>We
+ſpake to the women reſorting thither,</hi> ver. 16. <hi>And a certaine wo<g ref="char:EOLhyphen"/>man</hi>
+(named and deſcribed there, as one of a hundred and worth
+a hundred uncertaine ones) <hi>heard us</hi> (indeed, but) <hi>her heart the
+Lord opened,</hi> &amp;c.</p>
+            <p>
+               <pb n="15" facs="tcp:112651:10"/>
+Finally, form ore evidence hereof, God often infuſeth grace
+without any meanes, as in thoſe ſanctified in and from the
+wombe. <hi>Iohn Baptiſt</hi> and the reſt; yea above and contrarie to
+meanes, as in the theefe converted on the croſſe, who might
+have argued probably with others, <hi>He that ſaveth not himſelfe,
+how ſhall he ſave me?</hi>
+               <note place="margin">Act. <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> &amp;c. <hi>See</hi> v. 15, 16.</note> And in perſecuting <hi>Saul,</hi> who in heate of
+purſuit of the Saints was himſelfe made a chiefe one, a choice
+one; yea God hath wrought many miracles, even in naturall and
+civill affaires of men above and contrary to naturall principles, to
+convince his ſoveraignty, that we may goe to and reſt wholy on
+him, and not on the creature.</p>
+            <p>So much (I hope not too much) to ſettle the ſecond reaſon
+againſt objections.<label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> The third and laſt reaſon of the clearing of
+the doctrine followeth: namely (as the creature is only Gods
+inſtrument, the firſt reaſon: and but a partiall and particular
+helpe, the ſecond reaſon) ſo at the beſt as a creature, it is full of
+vanitie, emptineſſe and deceit, and will faile us moſt, when we
+moſt relie upon it, and therefore the Scripture frequently phra<g ref="char:EOLhyphen"/>ſeth,
+that it is a lie, and feedeth with lies thoſe who flie unto
+it, Iſa. 28. 15. <hi>We have made lyes our refuge, and have hid our
+ſelves under falſhood,</hi> ver. 17. <hi>The haile ſhall ſweepe away the refuge
+of lies,</hi> Jer. 16. 19. <hi>O Lord my ſtrength, my for treſſe, my refuge in
+the day of affliction,—ſurely our Fathers have inherited lies,</hi>
+               <note place="margin">The Anti<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſie is betweene God and all things <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> 
+               <hi>vanity
+and things wherein there is no profit.</hi> Briefly demonſtrate we this
+thus. Either the creature is a meere naturall agent, without free
+choice; and this proveth a lie to us not by any venome of malice
+in it, but by Gods blaſting and curſing it to us, for our truſting
+to it. Thus he maketh the earth as iron, and heaven as braſſe
+unto us, <hi>&amp;c.</hi> Or ſecondly, if the creature be a voluntary agent
+(as are men and angels) then it often proveth a lie to us in ran<g ref="char:EOLhyphen"/>cour
+of malice and perfidiouſneſſe, as doe wicked men and di<g ref="char:EOLhyphen"/>vels:
+the devill generally at laſt payeth home in their owne
+coyne to witches, his moſt faithfull ſervants, that ſhame in the
+world which he oweth them. And witches themſelves uſually
+bewitch them or theirs at laſt, through ſome checke they take
+who did moſt feare and humour them, having no power over
+them who moſt neglect and defie them. Or thirdly, if good
+<pb n="16" facs="tcp:112651:11"/>
+men, they prove a lie to us through weakneſſe, undertaking a<g ref="char:EOLhyphen"/>bove
+their ſtrength, through, heedleſneſſe, forgetfulneſſe, or o<g ref="char:EOLhyphen"/>ther
+weakneſſes, fruſtrating their good intentions, being firſt
+themſelves deceived,<note place="margin">This particular I forgot in my Sermon, ſo evi<g ref="char:EOLhyphen"/>dencing mans weakneſſe tho<g ref="char:EOLhyphen"/>rough my for<g ref="char:EOLhyphen"/>getfulneſſe.</note> and ſo deceiving others. And this (be<g ref="char:EOLhyphen"/>loved)
+is the moſt candid interpretation that we can put upon
+very many of our preſent State affaires: we hope their failings
+are from humane frailtie, not from devilliſh malice and trea<g ref="char:EOLhyphen"/>cherie;
+yet with all I ſay: our charity herein will helpe us,
+not them who offend of malicious wickedneſſe. God will find
+them out and call them to account, and as he mocketh not, ſo
+will he not be mocked. The Lord give us all an awfull dread of
+him in what he betruſteth us withall in this particular. Laſtly,
+even good Angels proove a lie unto us, not by any malice or
+weakneſſe in them, but by our caſting and forcing our hopes on
+them, promiſing our ſelves more from them then they doe, dare
+or can promiſe to, or undertake for us. Though indeed proper<g ref="char:EOLhyphen"/>ly
+in this caſe (as in moſt of the others) we rather proove a lie
+unto our ſelves, forcing our ſlight to the creatures, which they
+would not have us to doe. And herein are the Papiſts againe mi<g ref="char:EOLhyphen"/>ſerably
+foiled in their adoration and invocation of Saints and An<g ref="char:EOLhyphen"/>gels
+glorified,<note place="margin">Revel. 19. 10. <hi>&amp; Chap.</hi> 22. 9.</note> which they doe deteſt; witneſſe that of <hi>Iohn,</hi> who
+falling at the Angels feet to worſhip him, he ſaid, <hi>See thou doe
+it not, I am thy fellow-ſervant, worſhip God.</hi> And the Scripture a<g ref="char:EOLhyphen"/>boundantly
+chargeth us, that we doe not, and for that we doe
+truſt to our owne wits, wiſdome, wils, wealth, ſtrength, favour
+of Princes, multitude of people or whatever creature; even our
+inherent holineſſe, for that this alſo is a creature, not only when
+with the Papiſts placed in ſuperſtitious will-worſhip, but when
+in the truly holy works of the morall law, moſt religiouſly in
+faith performed. Thus have you the demonſtration of our ſecond
+doctrine; the whole creature is vanitie and a lie to truſt in:
+Therefore it is the Saints wiſdome to flie unto and relie upon
+God only in all their troubles. Improve we it by Uſe.</p>
+            <p>As firſt Reproofe of all bare negative not truſting in God,<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label>
+though we ſhould not fixe our truſt elſewhere, yet even this a<g ref="char:EOLhyphen"/>lone
+queſtioneth (or rather denieth) Gods all wiſe, juſt, good
+and powerfull providence, which if we did truly believe, we
+<pb n="17" facs="tcp:112651:11"/>
+would certainly truſt in him. What greater diſparagement to
+men in place, then to diſtruſt, or not to truſt them (I now ſpeak
+of a civill truſt due to men in and for God, raiſed up by God, as
+meanes under him, which is lawfull, if it doe not out, nor over<g ref="char:EOLhyphen"/>top,
+but is ſub-ſervient unto our truſt in God) though they may
+faile in ability, in fidelity, through infirmity, death may fruſtrate
+all, yet what a ſowre upbraiding will theſe belch forth, as ſtomac<g ref="char:EOLhyphen"/>king
+the matter: what will you not truſt me? How can we an<g ref="char:EOLhyphen"/>ſwer
+God, or how dare we ever come to him againe having once
+thus ill uſed him? Pſal. 25. 2. <hi>I truſt in God, let me not be aſhamed;</hi>
+the onely way not to be aſhamed ever to look God again in the
+face; and that God ſhame thee not in giving thee into the hands
+of thy enemies, as there followeth: See more <hi>ver.</hi> 20. And yet
+the common bane of theſe times is, that we will truſt God no
+farther then we ſee him. What doe we call that man concer<g ref="char:EOLhyphen"/>ning
+whom we ſo expreſſe our ſelves? Yet ſo we deale with our
+God. Hence it is, that men turn from ſide to ſide, and alter counſels,
+votes, company, and what not upon each diſaſter in battell, or
+upon other ſecondary cauſes failing, we quite forſake our colours,
+namely all the Proteſtations and Covenants, which we colourably
+tooke up.</p>
+            <p>But then ſecondly,<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> much more are thoſe to be reproved, who
+even when, and wherein they will not truſt God, they will
+any thing elſe without or above him. Wherein happily you will
+aske; but doth any one ſo? To whom I anſwer; that it is ſo
+hard a taske to fleſh and blood, that there is hardly any man that
+doth not ſo, more or leſſe. Which is uſually done two wayes<g ref="char:punc">▪</g>
+1. As we are ſo ſwayed by ſenſe that we are all for the preſent,
+counting one bird in the hand more worth then two in the buſh,<milestone type="tcpmilestone" unit="unspecified" n="1"/>
+though it be that buſh of <hi>Moſes,</hi> which burned, and was not
+conſumed,<note place="margin">Exod. 3. 2, 3. Deut. 33. 16.</note> and all <hi>thorough the good will of him that dwelt in that
+buſh,</hi> which turned afterward to a forme of prayer; that is,
+though we have Gods aſſurance that for all our thorny perplexi<g ref="char:EOLhyphen"/>ties
+wherein we are involved, and ſtick for the preſent, as did that
+Ramme which <hi>Abraham</hi> offered up, Gods wiſe and gracious pro<g ref="char:EOLhyphen"/>vidence
+will at length entricate us out of them, and ſet us at li<g ref="char:EOLhyphen"/>berty,
+they ſhall not conſume us, yet we faint, and call out, Oh
+<pb n="18" facs="tcp:112651:12"/>
+that we might once ſee and find it. In this regard even ſuch as
+like well enough of reformation both in Church and State, and
+were pretty well perſwaded,<note place="margin">Modo quolibet, modo rem.</note> that God was about that worke, yet
+finding the many great difficulties and remoraes which clogge
+the buſineſſe, are now content to take up with any reaſonable
+(rather unreaſonable) accommodations for peace, even with im<g ref="char:EOLhyphen"/>patience
+to heare of the contrary, meerly becauſe they dare not
+truſt God with a thorough reformation, and the perfecting his
+worke ſo happily begun, and miraculouſly thus farre carried on<g ref="char:EOLhyphen"/>ward
+in deſpight of all difficulties, and the powers of hell ban<g ref="char:EOLhyphen"/>ding
+themſelves againſt it.<milestone type="tcpmilestone" unit="unspecified" n="2"/> A ſecond way of diſtruſt of God and
+truſting to the creature,<note place="margin">Tantum <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uppo<g ref="char:EOLhyphen"/>nimus <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nihil pon<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mus de <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eo.</note> is, that we ſuppoſe all, but expreſſe nothing
+of our repoſe in God, which weareth and wearieth out our me<g ref="char:EOLhyphen"/>mory,
+eſteeme and honour of God; and on the contrary we think,
+talke, yea and dote wholly of the worth of our Councellours and
+ſtrength of forces, and the like, Jam. 4. 13. <hi>Ye that ſay we will doe
+thus and thus,</hi> ver. 15. <hi>for that ye ought to ſay, if the Lord will.</hi> I, we
+ſuppoſe that. I but you muſt rather ſay that then the other: that
+is, have God actually in your thoughts and tongues, to ſettle your
+faith and truſt in him, ver. 16. <hi>But now yee rejoyce in your boaſtings:
+all ſuch rejoycing is not good:</hi> not good? Speake out, it is ſtarke
+nought, its flat atheiſme, and plaine idolizing the creature; there<g ref="char:EOLhyphen"/>fore
+God will remove from us theſe our idols, if he intend good
+unto us, as he hath ſome of our prime Councellours and Com<g ref="char:EOLhyphen"/>manders,
+and often infatuated and diſſipated the endeavours of
+the ſurvivers, to teach us to truſt in him the living Lord, who ne<g ref="char:EOLhyphen"/>ver
+faileth thoſe that truſt in him.</p>
+            <p>A third and laſt Uſe is Exhortation,<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> therefore to hope in and
+flie wholly to God in all our troubles. Take along here that Text
+to enforce it, Lam. 3. 24. <hi>The Lord is my portion, ſaith my ſoule,
+therefore will I hope in him,</hi> ver. 25. <hi>The Lord is good to them that
+wait for him, that ſeeke him,</hi> ver. 26. <hi>It is good that we ſhould hope and
+quietly wait for the ſalvation of the Lord.</hi> I ſhall drive on this ex<g ref="char:EOLhyphen"/>hortation
+by propounding foure Rules, which may ſerve both as
+meanes directing us ſo to doe, and as marks of tryall whither we
+ſo doe,<label type="milestone">
+                  <seg type="milestoneunit">Rule </seg>1</label> both directive and detective. 1. Get a right knowledge
+<pb n="19" facs="tcp:112651:12"/>
+and eſteeme of God in all his attributes of power, wiſdome, truth,
+goodneſſe, mercy and providence, firſt out of his word, then
+from thy experimentall obſervation, and if thou haſt not yet attai<g ref="char:EOLhyphen"/>red
+this latter, truſt him on his bare word, which ſo honoreth God
+that he will make is good to thee ſooner or later in thine experi<g ref="char:EOLhyphen"/>ence.
+Pſ. 9. 10. <hi>They that know thy name</hi> (that is theſe thy attributes)
+<hi>will put their truſt in thee, for thou Lord haſt not forſaken them that
+ſeeke thee.</hi> 2. Hence learne to truſt God freely and fully,<milestone type="tcpmilestone" unit="unspecified" n="2"/> nothing
+without, nothing above, nothing but him, without any diſtruſt of
+him,<note place="margin">
+                  <hi>Pſ.</hi> 44. 6, 7, 8. notable to our purpoſe.</note> or ſeeking to any other, Prov. 3. 5. <hi>Truſt to the Lord with all
+thy heart, and leane not to thine owne underſtanding.</hi> 3. Truſt in
+God conſtantly, at all times, in all difficulties and improbabili<g ref="char:EOLhyphen"/>ties,
+in thy greateſt extremities, in thy greateſt ſecurities: in all
+conditions, be thy eſtate never ſo good, that thou haſt all that,
+which worldings truſt in, yet not then therein, but in God: or
+be it never ſo bad, that thou haſt nothing, which worldings ſtay
+themſelves upon, yet even then in him ſecurely. Happy is he that
+hath a moſt even ſpun hope in all paſſges and occurrences what<g ref="char:EOLhyphen"/>ſoever.
+<hi>Scaliger</hi> tels us, that the leaſt thread, that is ſpunne, if it
+were ſpun with an abſolute perfect evenneſſe, it would hold up
+hanged in it the weight of caſtles, yea of mountaines, and he gi<g ref="char:EOLhyphen"/>veth
+a very ſubtill reaſon for it, for if it brake in one place rather
+then the reſt, then it argues that place weaker then the reſt, and
+to breake in one inſtant throughout every parcell thereof, were
+plainly to annihilate it, therefore it would not breake at all: how<g ref="char:EOLhyphen"/>ever
+this be one of his ſubtilties, I am ſure that a compleate even<g ref="char:EOLhyphen"/>ſpun
+hope, and truſt in God would beare us up againſt the moſt
+mountainous troubles that can befall us, whereas for want hereof
+we build caſtles in the aire, by creating new troubles to our ſelves
+in our diſtracting feares and jealouſies.<note place="margin">
+                  <hi>Pſ.</hi> 62. 5, 6, 7, 8. a remarkable text.</note> 4. Truſt in God perpetu<g ref="char:EOLhyphen"/>ally,
+unto and in death it ſelfe; this is proper to the beleever, who
+hath hope in death, when as all the worldlings hopes doe periſh.
+This made the bloud of the Martyrs ſuch ſeed to the Church,<note place="margin">Sanguis mar<g ref="char:EOLhyphen"/>tyrum ſemen ec<g ref="char:EOLhyphen"/>cleſiae.</note> that
+whilſt that they, who obeyed not the word, were wonne with<g ref="char:EOLhyphen"/>out
+the word, vvhilſt they beheld the Martyrs reſolution, coupled
+with feare of God, and ſo devoid of feare of death, this convinced
+them of a more glorious eſtate after death, and did diſpoſe them
+<pb n="20" facs="tcp:112651:13"/>
+to inſtruction, and ſo occaſioned their ſaving converſion, in the
+interim they reſt in perfect bliſſe, free from ſinne and ſorrow, ex<g ref="char:EOLhyphen"/>pecting
+a glorious reſurrection, and in this regard alſo likened in
+Scripture to ſeed, 1 <hi>Cor. 15. Iſa. 26. 4. Truſt in the Lord Jehovah
+for ever, for in him is everlaſting ſtrength,</hi> Job 13. 15. <hi>Though he kill
+me yet will I truſt in him.</hi>
+            </p>
+            <p>Let this ſuffice for the ſecond Propoſition; <label type="milestone">
+                  <seg type="milestoneunit">Propoſition </seg>3</label> and ſo paſſe we un<g ref="char:EOLhyphen"/>to
+the third and laſt: The Doctrine is, <hi>That it is the comfort of
+Gods Church and children (ſo trusting in him) that they ſhall find
+God a very (yea too too) preſent strong and aboundant helpe in all
+their troubles whatſoever.</hi> The proofe and improvement whereof
+hath in part bin made good in the ſecond point, in recompence
+whereof this third will doe as much for the ſecond point, this be<g ref="char:EOLhyphen"/>ing
+the prime demonſtrative argument for it, as we then ſhewed,
+ſo nigh of kin are theſe two. The clearing of this point by Scrip<g ref="char:EOLhyphen"/>ture
+proofe is (as the former) referred to thoſe generall premi<g ref="char:EOLhyphen"/>ſed
+texts. For farther clearing hereof I ſhall firſt gather up the
+graduall arguments in our text thus. 1. God is our hope, re<g ref="char:EOLhyphen"/>fuge
+and ſhelter, that is, our hope makes us ſly to him for ſhelter.
+I ſo doe many, and find ſmall comfort, miſerable comforters, as
+<hi>Iob</hi> found his three friends, weake props. As ſome in a ſtorme ha<g ref="char:EOLhyphen"/>ſten
+to a tree, which ſo pelteth them with droppings, that they
+leave it and rather expoſe themſelves to the weather. Therfore
+ſecondly, our text addeth, <hi>And ſtrength;</hi> that is, alſufficient to
+protect them, who make him their ſhelter. I ſo are many men
+more able, then willing to help, as <hi>Dives</hi> was to relieve <hi>Lazarus?</hi>
+3. Therefore our Text addeth, a helpe we ſhall finde him ready
+and willing. I happily in ſome few ſmall troubles without much
+coſt or trouble? Laſtly, therefore our Text ſaith, <hi>in very great and
+aboundant troubles,</hi> though we find them too too great and aboun<g ref="char:EOLhyphen"/>dant,
+yet will he beare us through, and out of them all. So that
+nothing is deſirable in this point, in which our Text holdeth not
+forth comfort.</p>
+            <p>It were eaſie from Scripture to ſhew you experiments in all
+particulars, which your own obſervation may ſupply, both in
+temporall and ſpirituall troubles, as our firſt point branched them
+forth: but I chooſe rather to remoove a cavill, which maketh
+<pb n="21" facs="tcp:112651:13"/>
+battery againſt this truth, the removall whereof will much ſet<g ref="char:EOLhyphen"/>tle
+the ſame. Thus,</p>
+            <p>
+               <hi>Obj.</hi> Experience telleth us (whatever you ſay) that the god<g ref="char:EOLhyphen"/>ly
+aer overborne with troubles, and ſinke and periſh under them.
+I ſhall give you a ſeven fold anſwer hereto.</p>
+            <p>
+               <hi>Anſw.</hi> 1. Know that this third doth not enterfeer vvith the firſt
+Propoſition, <hi>That the troubles that befall in this life are common to
+godly and wicked men,</hi> and that the godly may die under the preſ<g ref="char:EOLhyphen"/>ſures
+thereof, death being the period and cloſure of this life, <hi>Mat.</hi>
+10. 17. Chriſt forewarneth, thereby to fore-arme us herein. And
+then again know that the firſt doth not trip up the heels of this
+third Propoſition, but that nevertheleſſe God is our help in and
+out of them all.<label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>2</label> A ſecond anſwer is, that to uphold the harmo<g ref="char:EOLhyphen"/>ny
+of theſe tvvo truths, and to contain each of them vvithin its
+bounds, we muſt give a double diſtinction: the former betweene
+temporall troubles reſpecting our naturall life; and ſpirituall
+troubles reſpecting our ſupernaturall life: the latter diſtin<g ref="char:EOLhyphen"/>ction
+is between the matter, and the manner of both theſe
+kind of troubles. The matter is the kind of troubles which we
+ſuffer; as ſickneſſe, hunger, thirſt, nakedneſſe, death, Satans tenta<g ref="char:EOLhyphen"/>tions,
+<hi>&amp;c.</hi> the manner is Gods reſpect unto man troubled, and
+mans reſpect back again to God, both for ground and end why, and
+degrees how fare God orders that they be ſo troubled. According
+to which diſtinctions we ſettle the point in a four fold concluſion.</p>
+            <p>Firſt,<label type="milestone">
+                  <seg type="milestoneunit">Concluſ. </seg>1</label> that however temporall troubles are for matter alike
+both to Godly and wicked, yet for manner they are ſanctified to
+the Godly, and not to the wicked. The Godly own God the Au<g ref="char:EOLhyphen"/>thour
+thereof: juſtifie Gods Providence therein, arme them<g ref="char:EOLhyphen"/>ſelves
+to beare them as a Fathers chaſtiſements; weane them<g ref="char:EOLhyphen"/>ſelves
+from the love of this world, that is full of them; hate, and
+mortifie ſin as the cauſe of them; labour for holineſſe, as that
+which deſtroyeth ſin, and fitteth them for diſſolution, and for a
+better life, with longing deſire they wait and look for the ſame;
+And all this makes them more and more to hope in, and fly to
+God for helpe, and from hence they learne with <hi>David</hi> to ſay,
+<hi>Pſal. 119. 67. Before I was afflicted, I went astray: but now have I
+kept thy Word.</hi> ver. 75. <hi>Thy judgements are right: thou of very faith<g ref="char:EOLhyphen"/>fulneſſe
+haſt cauſed me to be troubled.</hi> In all which temporall
+<pb n="22" facs="tcp:112651:14"/>
+troubles the delivery is conditionall, not abſolute, namely, when,
+how, and how farre Gods wiſedome ſeeth beſt for his glory, and
+his Childrens good.</p>
+            <p>A ſecond Concluſion is,<milestone type="tcpmilestone" unit="unspecified" n="2"/> that the ſpirituall trouble of ſin how<g ref="char:EOLhyphen"/>ever
+it ſeeme alike in godly and wicked for matter, yet for man<g ref="char:EOLhyphen"/>ner
+it differeth very much. The Godly ſin of infirmity, not of
+preſumption, their ſins are ſudden ſurpriſals and incroachments,
+not contrived before: bewailed, not boaſted in afterward: yea,
+and with conflict in the acting them; they are captived to them,
+not willingly ſerving them; they be not raigning ſinnes in them,
+and therefore not unto death. In all which it is generally quite
+contrary with the wicked, and that becauſe theſe are all fleſh, and
+ſo ſinne findeth no oppoſition in them: thoſe conſiſt of fleſh, and
+Spirit,<note place="margin">Gal. 5. 17.</note> which (as contraries) are in continuall combate. Hence
+the Godly cannot totally, or finally ſinke under ſin, becauſe the
+Spirit cannot be ſubdued to, and conquered by the fleſh, 1 <hi>Joh.</hi> 4. 4.
+<hi>Ye are of God, little children, and have overcome them: becauſe
+greater is he that is in you, then he that is in the world.</hi>
+            </p>
+            <p>A third Concluſion is,<milestone type="tcpmilestone" unit="unspecified" n="3"/> that for diſtreſſe of Conſcience leading
+to deſpaire, however God ſuffer his children to be ſhrewdly buf<g ref="char:EOLhyphen"/>fetted
+by Satan for triall and chaſtiſement, yet in as much as de<g ref="char:EOLhyphen"/>ſpaire
+is a grievous ſinne, it cannot totally or finally prevaile over
+them, but they ſhall recover, and Gods grace ſhall be ſufficient
+for them.</p>
+            <p>The fourth and laſt Concluſion is,<milestone type="tcpmilestone" unit="unspecified" n="4"/> that however it be with the
+Godly in this life, yet the end crowneth all, as <hi>Paul</hi> ſpeaketh
+2 <hi>Tim. 4. 7. I have fought a good ſight</hi>—ver. 8. <hi>henceforth is layed
+up for me a crowne of righteouſneſſe,—and not to me only, but to thoſe
+alſo that love his appearing,</hi> which cauſeth that his triumphant
+challenge <hi>Rom.</hi> 8. 33, 34, 35. In all which the wickeds condition
+is quite contrary: they ſinke without helpe everlaſtingly under
+all theſe troubles.</p>
+            <p>But here may ſome object,<label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> as <hi>John 11. 37. Could not he that ope<g ref="char:EOLhyphen"/>ned
+the eyes of the blind, have cauſed that this man ſhould not have
+dyed?</hi> So could not God without more adoe have prevented
+mans fall into ſin and miſery, and ſo Chriſts death? or at leaſt by
+his death have perfectly freed his children from all ſin and miſe<g ref="char:EOLhyphen"/>ry,
+the two troublers of his Iſrael?</p>
+            <p>
+               <pb n="23" facs="tcp:112651:14"/>
+I ſhould have cut ſhort this curious queſtion with <hi>Pauls</hi> an<g ref="char:EOLhyphen"/>ſwer.
+<label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> 
+               <hi>O man, who art thou that diſputeſt with God?</hi> but that a
+fuller ſatisfactory anſwer will afford choice heavenly notions:
+Therefore, I ſay, doubtleſſe his power could, if his wiſdome had
+ſeen it meet ſo to have ordered it: which however we cannot
+fathome to its bottome; <label type="milestone">
+                  <seg type="milestoneunit">Concluſ. </seg>5</label> yet five fathoms deepe we may dive.</p>
+            <p>Firſt,<milestone type="tcpmilestone" unit="unspecified" n="1"/> God is of abſolute infinite Perfection from all eternity,
+needing no creation, nor creature to adde any thing to him.</p>
+            <p>Secondly,<milestone type="tcpmilestone" unit="unspecified" n="2"/> therefore the whole creation was meerly arbitrary,
+yet with ſome end ſuitable to his excellency, and worthy his un<g ref="char:EOLhyphen"/>dertakings.
+For ſo every wiſe man will have a valuable end in
+his actions, much more will Gods infinite wiſdome ſo order it.</p>
+            <p>Thirdly,<milestone type="tcpmilestone" unit="unspecified" n="3"/> therefore this Gods end can be no other, but the ma<g ref="char:EOLhyphen"/>nifeſtation
+of his glory in all his communicative Attributes of
+Power, Wiſdome, Providence, and the reſt; and that to the high<g ref="char:EOLhyphen"/>eſt
+Perfection that the moſt noble Creatures, Men, and Angels
+can reach; whereby to honour, and praiſe him in all his excellen<g ref="char:EOLhyphen"/>cies:
+becauſe any thing in the creature is too baſe to be the
+ultimate and higheſt end of the Creators actions: and to adde
+any thing to himſelfe is impoſſible. Therefore it being nothing
+within God, nor within the creature, it remaineth onely to be
+this relative reſpect between them, in Gods manifeſtation of his
+glory, and the creatures magnifying him therein.</p>
+            <p>Fourthly,<milestone type="tcpmilestone" unit="unspecified" n="4"/> yet this Gods manifeſtation of his glory muſt not be
+in ſo eaſie and obvious a way, that the ſhallow capacitie of the
+choiſeſt creatures may trace him, much leſſe out-runne and way<g ref="char:EOLhyphen"/>lay
+him, ſaying, This way he muſt needs come, but in ſuch hid<g ref="char:EOLhyphen"/>den
+pathes, as are paſt any, yea, all the creatures finding out, un<g ref="char:EOLhyphen"/>till
+he be pleaſed to manifeſt them. Becauſe eaſineſſe and com<g ref="char:EOLhyphen"/>monneſſe
+ſtrippeth things of admiration, expoſing them to neg<g ref="char:EOLhyphen"/>lect,
+and contempt.</p>
+            <p>Fifthly,<milestone type="tcpmilestone" unit="unspecified" n="5"/> therefore God, to confound the wiſdome of the wiſe,
+propoundeth ſuch contrary, and unlikely meanes to produce his
+ends, that by how much the more we think the work impoſſible
+before hand, by ſo much the more admirable we may eſteeme it
+afterward: by how much the more we ſlighted it before, by ſo
+much the more we might adore it afterward. In theſe five Con<g ref="char:EOLhyphen"/>cluſions
+ſtands a generall rationall account of Gods actions. In
+<pb n="24" facs="tcp:112651:15"/>
+particular all his works of wonder, and miracles we doe own to
+ſpeake ſo much unto us; as his leading Iſrael 40 yeares through
+the wilderneſſe, <hi>Exod. 12. 37, 38. Pſal.</hi> 78. 12. &amp;c. and Chriſt his
+miraculous feeding ſo many with ſo few loaves. <hi>Joh. 6 5. Matth.</hi>
+15. 32. And are not Gods ordinary works of nature as admirable?
+From one of which a Heathen Philoſopher concluded, without
+the light of Scripture, that doubtleſſe there is one God, whoſe
+univerſall all powerfull providence ordereth all things. To this
+effect he reaſoned concerning the conception of a child in the
+wombe: who diſtributeth that little maſſe of ſeed into fleſh,
+skin and bone, rather then all into ſleſh only? or being thus
+changed, who cauſed it to branch forth into head and members,
+wiith all their diſtinctions, rather then to congeale into a lump of
+bone inwrapped in fleſh, and covered over with skinne? or yet
+why two armes, and legges, and but one body? who branched
+forth the hands into five fingers with all their uſefull joynts?
+who diſtributed the intrals, and gave life to all, with the faculty
+of concoction, and growth, all in a due porportion, with a multi<g ref="char:EOLhyphen"/>tude
+of ſuch like obſervations? All which are ſo farre from the
+parents power to diſpoſe of, that they are often wholly ignorant
+thereof, untill at hand to bring forth, however, they cannot chooſe
+to have male or female; proper, faire, witty children, or other;
+the like of Egges turned into Chickens, Acrons into Oakes: with
+ſuch a certain rule, that doubtleſſe they are from one over-ruling
+power of God. <hi>David</hi> ſweetly meditateth this thing of his own
+conception, <hi>Pſal.</hi> 139. 13. to the 16. yet theſe, and the like, be<g ref="char:EOLhyphen"/>cauſe
+they fall out in an ordinary courſe of nature, foreſeene in
+their cauſes and meanes, are not admired, yea, little conſidered, as
+is each leaſt miracle: ſo true is it, that Familiarity breedeth con<g ref="char:EOLhyphen"/>tempt:
+whereas it is as rare a worke of God to turne water in<g ref="char:EOLhyphen"/>to
+wine by the ordinary courſe of nature, were it truly conſide<g ref="char:EOLhyphen"/>red,
+as by Chriſt his miracle: Oh, its the nature of the Vine to
+doe it! I but who gave it this nature and vertue? Oh, but it's
+common and ordinary: ſo much the more admirable provi<g ref="char:EOLhyphen"/>dence,
+that for ſo long continuance never fainteth, nor faileth in
+his work: what is carried with conſtancy and certainty is moſt
+with wiſdome and with power. I might be large herein, but I
+contract, and reduce all to the ſatisfying our preſent objection.
+<pb n="25" facs="tcp:112651:15"/>
+Its true: God could, if he would, have prevented mans fall, Chriſts
+death, his childrens ſinne and ſuffering: but then, 1. We had not
+ſeen the weakneſſe of the choiſeſt creatures, men, and Angels,
+when not ſupported by God. 2. Nor Gods rich love in Chriſt
+given a ranſome for us; nor Gods ſevere indignation againſt ſin,
+and ſinners, with the higheſt pitch of Gods exact juſtice againſt
+reprobates, and of his unfathomed free grace towards his elect
+ones, and of his unblemiſhed holineſſe, that ſpareth not ſinne, but
+muſt have it puniſhed, though in his children, by way of chaſtiſe<g ref="char:EOLhyphen"/>ment,
+and in his Sonne by way of ſatisfaction; nor the power of
+the grace of God in his Saints, that is ſtronger then death, and ſo
+exerciſeth them in all the toſſings and turnings of this life, that all
+things co-work in the cloſe with beſt advantage for Gods glory,
+and their eternall Salvation; that with admiration looking into
+theſe pathes of God, we may ſay with <hi>Paul, Rom 11. 33. O the
+depth of the riches both of the wiſdome and knowledge of God! how
+unſearchable are his judgements, and his wayes paſt finding out?</hi> ver.
+34. 35. <hi>For who hath knowne the mind of the Lord, &amp;c.</hi> ver. 36.
+<hi>For of him, and through him, and to him are all things: to him be glo<g ref="char:EOLhyphen"/>ry
+for ever. Amen.</hi> This is the end of all, Gods glory, that man
+cannot trace his pathes. He bringeth good out of evill, which
+could not be, had he not firſt permitted evill to be. Theſe are
+<hi>Pauls</hi> miraculous Riddles and Paradoxes, 2 <hi>Cor.</hi> 6. 4. to the 10. <hi>v.</hi>
+with which the Spirit of God by faith acquainteth his children,
+which the naturall man diſcerneth not, neither can he. Nothing
+ſo confoundeth Satan with all his Aſſaſſinates, foiling him at his
+owne weapon, letting him have his moſt malicious will, and
+thereby accompliſhing his owne moſt holy will. As that <hi>Jo<g ref="char:EOLhyphen"/>ſephs</hi>
+brethren ſhould ſell him into Egypt, that they might not
+worſhip him, whom thus they came to worſhip; That <hi>Sampſon</hi>
+ſhould be bound by the Philiſtines, to deprive him of his ſtrength,
+thereby to exerciſe and evidence his ſtrength to their ruine; That
+<hi>David</hi> ſhould kill <hi>Goliah</hi> with his ſling, and ſmooth ſtones out
+of the brooke, and ſo cut of <hi>Goliahs</hi> head with his own ſword.
+All ſeverall types of Satan bringing Chriſt to death, ſo working
+mans ſalvation, and his own kingdoms deſolation, the things Sa<g ref="char:EOLhyphen"/>tan
+ſo feared, and hereby thought to prevent, <hi>Pſal. 76. 10. Surely
+the wrath of man</hi> (and devils) <hi>ſhall praiſe thee, and the remainder of
+<pb n="26" facs="tcp:112651:16"/>
+wrath ſhalt thou refraine,</hi> that is, when God hath let as much ma<g ref="char:EOLhyphen"/>lice
+runne forth, as will make moſt for his glory, God will turne
+the cock, and damme up the reſidue, when at the fierceſt; then is
+his fit time: and that is as <hi>ver. 9. When God ariſeth to judgement, to
+ſave all the meeke of the earth.</hi> Let this ſuffice for clearing of this
+laſt doctrine.</p>
+            <p>The firſt Uſe whereof is Inſtruction of the ſeverall waies that
+God hath for delivery of the godly from all their troubles:<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> wher<g ref="char:EOLhyphen"/>of
+he hath given us evidence (beſides his reſerves, even his owne
+waies, in his own wiſe providence, to his own glory, beyond
+mans tracing, according to what we laſt delivered in this Do<g ref="char:EOLhyphen"/>ctrine)
+as followeth.</p>
+            <p>1. God often ſmiteth the hearts of the enemies of his Church
+and children with ſudden fears and jealouſies of dangers to them<g ref="char:EOLhyphen"/>ſelves,
+<milestone type="tcpmilestone" unit="unspecified" n="1"/> when no cauſe is thereof that is reall: ſo that they fly
+when none purſueth them. As did the hoſts of the <hi>Aſſyrians,</hi>
+2 <hi>King</hi> 7. 6, 7. whom the Lord cauſed to heare a noiſe of chari<g ref="char:EOLhyphen"/>ots
+and horſes, and of a great hoſte, and ſo were utterly routed.
+Yea Stories mention the like in ordinary, through miſtake of
+trees and Sun-ſhine upon waters, and cattell for armies; of rat<g ref="char:EOLhyphen"/>ling
+winds, yea dreames ſtriking horrour and amazement, as a no<g ref="char:EOLhyphen"/>table
+example of the <hi>Midianites</hi> dreame with the following
+ſtratagem, <hi>Iudg.</hi> 7. 13. doth evidence.</p>
+            <p>2. God often ſmiteth the enemies hearts with relenting pity,<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+and maketh them prove friends to his Church and children. So
+he over wrought <hi>Iudah</hi> and <hi>Reuben</hi> towards <hi>Ioſeph.</hi> Gen. 37. 19.
+to ſpare his life. So <hi>Ahaſhueroſh</hi> towards <hi>Hester,</hi> and the whole
+Nation of the <hi>Iewes</hi> to reverſe the ſentence gone forth for their
+deſtruction, <hi>Esth.</hi> 7. So <hi>Nebuchadnezzars</hi> heart was ſet before
+hand to free <hi>Daniel</hi> (in his meaſure) as well as after to joy in it,
+and in the interim to be troubled for him, <hi>Dan.</hi> 6. Theſe twain
+are Gods preventing wayes of help.</p>
+            <p>3. God often ſuffereth his Churches and childrens enemies to
+ride on proſperouſly in their projects,<milestone type="tcpmilestone" unit="unspecified" n="3"/> yet ſo, as in the upſhot to
+confound them, and to turne their deſignes to his owne glory,
+the welfare of his Church and children, and their owne ſhame
+and confuſion; as in the inſtances of <hi>Ioſephs</hi> brethren, who ſold
+him into <hi>Aegypt,</hi> the <hi>Philiſtines</hi> binding <hi>Sampſon,</hi> and the be<g ref="char:EOLhyphen"/>traying
+<pb n="27" facs="tcp:112651:16"/>
+Chriſt unto death. Alſo in <hi>Saul</hi> his giving <hi>Michal</hi> to
+<hi>David</hi> to wife to be a ſnare unto him in the dowry of a hundred
+<hi>Philiſtines</hi> fore-skins, that ſo <hi>David</hi> might fall under their hands,
+which was his riſe to greater honour, 1 <hi>Sam. 18. 22, &amp;c.</hi> The
+like in the accuſers of the three children, <hi>Dan.</hi> 3. and of <hi>Daniel</hi>
+himſelf, <hi>chap.</hi> 6. both which tended to the riſe of them and ruine
+of their adverſaries.</p>
+            <p>4. God often letteth the principals alone,<milestone type="tcpmilestone" unit="unspecified" n="4"/> and only dealeth
+with the inſtruments of their cruelty, diſabling them for ſervice
+againſt his Church and children, as the fiery fornance and the Li<g ref="char:EOLhyphen"/>ons
+in the two fore-named examples. So the chariot wheeles
+of <hi>Pharaoh's</hi> hoſte fell off in purſuit of <hi>Iſrael</hi> through the red Sea,
+<hi>Exod.</hi> 14. 25. So the band of ſouldiers, that came to attach <hi>Je<g ref="char:EOLhyphen"/>ſus,</hi>
+as ſoon as he ſaid, <hi>I am he,</hi> went backward and fell to the
+ground, <hi>Ioh.</hi> 18. 5, 6. And Eccleſiaſticall Story telleth us, that <hi>Iohn</hi>
+being put into a Caldron of boyling leade, came forth without a<g ref="char:EOLhyphen"/>ny
+hurt.</p>
+            <p>5. God often ſuffereth the devill and all his inſtruments to do
+their worſt,<milestone type="tcpmilestone" unit="unspecified" n="5"/> and then he doth his beſt; ſetting himſelfe in batta<g ref="char:EOLhyphen"/>lia,
+his hoſt againſt theirs, under whoſe command are all crea<g ref="char:EOLhyphen"/>tures,
+like ſo many regiments: Some ſo potent, that one Angel
+in one night ſlaieth 185000 enemies of his Church, 2 <hi>King.</hi> 19.
+35. <hi>The ſtarrs in their courſes fought againſt Siſera,</hi> Judg. 5. 20. the
+Sunne and Moone ſtand ſtill to give light to his people to be a<g ref="char:EOLhyphen"/>venged
+of their enemies, <hi>Ioſh.</hi> 10. 12, 13. Yea the river <hi>Kiſhon</hi>
+ſwept them away, <hi>Iudg.</hi> 5. 21. Yea God hath hoſts of lice, flies,
+fleas, frogs, haile, murten, and what not, to puniſh kings for
+their ſakes.</p>
+            <p>6. God often ſuffereth the wicked to prevaile even unto mar<g ref="char:EOLhyphen"/>tyrdome
+againſt his Church and Saints:<milestone type="tcpmilestone" unit="unspecified" n="6"/> but it is to free them
+from evils to come; to give them a more honourable crown of
+glory; and to raiſe up ſeed to his Church out of their blood, as
+hath formerly been touched. Now (beloved) all theſe things
+are written for our inſtruction: for how ever we expect not the
+like miraculous deliverances, as moſt of theſe were; yet wee
+through patience and comfort of the Scriptures muſt have this
+hope, that the Lord will find out a fit way for us alſo to eſcape,
+and will give a good iſſue with the temptation, when, how, and
+<pb n="28" facs="tcp:112651:17"/>
+how farre his wiſe providence ſeeth beſt for his own glory and
+his childrens good, however delivering them from eternall death
+and giving to them life everlaſting. I need not recount unto
+you our own experiences of our Church of <hi>Englands</hi> wonder<g ref="char:EOLhyphen"/>full
+deliverances: that from the <hi>Spaniſh</hi> invaſion of eighty eight,
+and that of the helliſh powder-plot, with thoſe in theſe our late
+and preſent calamities, which we may name <hi>Gad,</hi> for <hi>loe a troope
+cometh;</hi> many deliverances already brought forth, and many more
+we truſt are yet in the wombe.</p>
+            <p>Gods children are men of obſervation, and thereout ſuck they
+no ſmall advantage to their ſoules; which ſhall uſher in a ſecond
+Uſe of Exhortation,<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> that, we obſerve diligently Gods gracious
+dealings in this behalfe, both to his Church, and to thy ſelfe in
+particular, to learne thence to praiſe God, to pray to him, and
+to truſt in him. Herein (if in any thing) was <hi>David</hi> a man after
+Gods owne heart, who inditeth Songs of Gods providence in all
+his wondrous works of grace to his Church; both hiſtorically
+from the beginning of the world downe to his own times; and
+prophetically from his owne time unto the worlds end, yea and
+the former hiſtoricall ones with ſo propheticall a ſpirit, that they
+ſerve moſt aptly for future uſe unto all poſterity: and therefore
+his book of <hi>Pſalmes</hi> remaineth the only Church muſick unto the
+worlds end unto the Church of Chriſt.</p>
+            <p>A third Uſe is farther Exhortation,<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> that we be moſt deeply
+and chiefly troubled for our ſinnes, the only true trouble-houſe of
+the Iſrael of God, untill we get pardon thereof in Chriſt his me<g ref="char:EOLhyphen"/>rits,
+and victory over them by the power of Gods Spirit. This
+will alleviate all other troubles to thee, as being flea-bites here<g ref="char:EOLhyphen"/>unto;
+they all will be eaſily overcome in joy of this once right<g ref="char:EOLhyphen"/>ly
+and throughly vanquiſhed: and our quietneſſe of Conſcience
+iſſuing hence will be rightly bottomed upon tenderneſſe of Con<g ref="char:EOLhyphen"/>ſcience
+bringing joy in the Holy Ghoſt, and not on that falſe bot<g ref="char:EOLhyphen"/>tome
+of naturall ſecurity, and ſenſeleſneſſe in ſinne, growing up in
+impudencie of ſinne, untill at length it quite flag into finall de<g ref="char:EOLhyphen"/>ſpaire;
+ſuch a ſeared Conſcience breakes forth at laſt into reſtleſſe
+wounds, and out-cryes of an accuſing conſcience. Get God
+home to thee within thy Conſcience, then needeth thy hope for
+ſhelter never ſtirre out of thee, but in all troubles whatſoever
+<pb n="29" facs="tcp:112651:17"/>
+have this for thy retiring biding place; If thither thou dareſt not,
+whither wilt thou fly? how comfortleſſe is that mans conditi<g ref="char:EOLhyphen"/>on,
+who having no ſafety abroad, dareth not retire, having no quiet
+at home through a brawling wife, both at bed and board reſtleſſe?
+yea, worſe is the trouble that ſinne procureth, diſquieting the
+Conſcience: Such ones are like to the Citizens of <hi>Ai,</hi> purſued,
+and thinking to return to their City, it was all on fire, and ſo they
+fell all by the ſword. <hi>Joſh.</hi> 8. not much unlike was the condition of
+the Benjamites, <hi>Judg.</hi> 20. 40 &amp;c. yet worſe, even as ill as may be,
+is the preſent condition, becauſe we carry this houſe, the retiring
+place of Conſcience about with us, where-ever we goe, and can<g ref="char:EOLhyphen"/>not
+leave it behinde us; and therefore take we heed how we diſ<g ref="char:EOLhyphen"/>quiet
+it with our ſins:<note place="margin">Faber deaſciat lignain ſuper<g ref="char:EOLhyphen"/>ficie putrida, ſi auutem ſana in<g ref="char:EOLhyphen"/>venerit intue in aedificium pro<g ref="char:EOLhyphen"/>vehit, non valdae de ſuperficie pu<g ref="char:EOLhyphen"/>trida &amp; laeſo ſolicitus: Quid proderit exteri<g ref="char:EOLhyphen"/>us ſanum putre<g ref="char:EOLhyphen"/>facta medulla conſcientiae?</note> To which purpoſe let us be ſure to finde
+out and ſurprize our ſinnes before they find and ſurprize us, if we
+diſcover our ſinnes firſt, we may kill them; if they find us out
+firſt, they will greatly hazzard our ruine, if God ſhew us not the
+greater mercy. Let our ſinnes therefore be our greateſt trouble.
+Take <hi>Auſtins</hi> expreſſion. The Carpenter heweth timber, which
+is rotten on the outſide, but if he findeth it ſound within, he ſqua<g ref="char:EOLhyphen"/>reth
+it, fitting it for building, regardleſſe of the outward unſound
+chips, if they be burnt in the fire; it will nothing availe us to have
+ſound bodies, and hollow hearts with corrupted conſciences;
+theſe be the troubles which ſeize on us, that we ſink under them:
+Get a good heart and ſound conſcience, and in whatever trou<g ref="char:EOLhyphen"/>bles,
+<note place="margin">Iſtae ſunt tri<g ref="char:EOLhyphen"/>bulationes quae invenerunt nos nimis. Si ſanum ſit intus, ubi<g ref="char:EOLhyphen"/>cun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> alibi paſ<g ref="char:EOLhyphen"/>ſus ſit, ill<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c con<g ref="char:EOLhyphen"/>fugiet, &amp; ibi invenerit De<g ref="char:EOLhyphen"/>um, &amp;c.</note> thither thou mayeſt (with <hi>Hezekiah</hi>) retire, and appeale to
+God with comfort, who will there meet thee, ſpeaking peace,
+however troubles doe dog, and purſue thee from place to place:
+otherwiſe they will drive thee out of thy ſelfe, and make thee
+thine owne accuſer and tormentor, haunting thy ſelfe with per<g ref="char:EOLhyphen"/>petuall
+vexation in every place, and at every turne; and that ſo
+much the more fiercely, by how much the more inwardly and
+ſecretly: and yet even in theſe extremities God, yea, God alone
+is out refuge,<note place="margin">Te ſequitur, te<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> cruciat tan<g ref="char:EOLhyphen"/>to ardentius, quanto interius: tamen &amp; in his adjutor eſt Do<g ref="char:EOLhyphen"/>minus. <hi>Auguſt.</hi>
+               </note> and preſent help; wherfore find we out our ſins, and
+with the helpe of our God, rout we them, that they deſtroy not
+us utterly: and make we ſure to have our God at peace within
+us, thither to retire. When men ruſh out of a ſort againſt their
+enemies, and make good their ſort, they may retreat thither ſafe<g ref="char:EOLhyphen"/>ly
+in all ſtraights: but if the enemy breake in upon them by ſur<g ref="char:EOLhyphen"/>prize,
+<pb n="30" facs="tcp:112651:18"/>
+or ſtep in between them and home, or pell mell crowd in
+with them, they may repent at leaſure (if God give them the
+grace, I meane in this our ſpirituall conflict with ſinne) wherfore
+as ſome have voluntarily bound themſelves to their good behavi<g ref="char:EOLhyphen"/>our,
+thereby to reteine their liberty, that their enemy binde them
+not thereto, for then it is very difficult to get looſe: ſo let out
+Chriſtian wiſdome teach us to doe. Though we are all borne in
+our ſinnes, yet take we heed how we live in our ſins, for then we
+ſhall dye in our ſins: the godly however ſinne is in them unto
+death, yet they are not in their ſinnes, but in Chriſt Jeſus, new
+creatures, continually mortifying all their ſinfull luſts: Oh let it
+be ſo with me, with thee, yea, and with thee alſo whoever thou
+art: as we tender the eternall ſalvation of our ſoules.</p>
+            <p>Take a fourth Uſe of Exhortation,<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>4</label> that we build and reſt upon
+God alone for delivery in all our troubles. <hi>Iſai.</hi> 26. 3, 4. is a full
+text to this purpoſe. Let no carnall reaſonings ſtave or draw us
+off from this our repoſe in God: as that is a maine one: Ob<g ref="char:EOLhyphen"/>jecting
+that Cities,<label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Kingdomes, Republickes moſt flouriſhing
+have their periods, birth, growth, heigth, decay, and ruine; and
+none can hinder this fate and deſtiny, as hath been obſerved, and
+therefore why ſhould we ſtruggle in the buſineſſe?</p>
+            <p>Anſwer hereto is,<label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> that for as much as this doth generally take
+us off from our addreſſe to, and ſecuring our ſelves in Gods all<g ref="char:EOLhyphen"/>powerfull,
+wiſe, and good providence: Therefore</p>
+            <p>Firſt,<label type="milestone">
+                  <seg type="milestoneunit">Concluſ. </seg>4</label> Know we, that God in vertue of theſe his attributes diſ<g ref="char:EOLhyphen"/>poſeth
+of Kings and Kingdomes,<milestone type="tcpmilestone" unit="unspecified" n="1"/> bringing downe one, and ſet<g ref="char:EOLhyphen"/>ting
+up another, and doing whatever he pleaſeth both in Heaven
+and in earth.</p>
+            <p>Secondly,<milestone type="tcpmilestone" unit="unspecified" n="2"/> know we likewiſe that God is not fickle, nor hu<g ref="char:EOLhyphen"/>morous,
+lightly loathing old friends, nor changing his love: but
+ſpareth, and forbeareth, untill our ſins ſo highly provoke him, that
+the honour of all his glorious Attributes, Juſtice, Truth, Holineſſe
+are ſo deeply ingaged in the quarrell, that he cannot fairly come
+off, but by taking vengeance to the uttermoſt. In as much as even
+when the cry of Sodome came up to Heaven, he will firſt come
+downe to the earth, to ſee if their ſins were as great as their cry
+was loud: yea, and he ſpared the Canaanites, untill their ſins were
+full ripe for judgement. <hi>Judah's</hi> ſinnes grew to that height that
+<pb n="31" facs="tcp:112651:18"/>
+there was no remedy. 2 <hi>Chron. 36. 16. Matth. 23. 32. Fill ye up
+the meaſure of your Fathers. Pſal. 107. 34. A fruitfull land he
+turneth into barrenneſſe, for the iniquity of them that dwell therein.</hi>
+            </p>
+            <p>Thirdly,<milestone type="tcpmilestone" unit="unspecified" n="3"/> Know we farther that in all theſe Cataſtrophe's
+God ſtill preſerveth his Church (the City of God, the Kingdome
+of Chriſt) ſafe and ſound, though he remove this his Candleſticke
+from one people to another nation: God provideth for it amidſt
+all the ruines of Kingdomes: being no temporall, but a ſpirituall
+juriſdiction, ſee <hi>ver.</hi> 4, 5. after our Text. Thus all Judea and Pale<g ref="char:EOLhyphen"/>ſtina
+being layed waſte, the Church ſettles in Grecia; it being
+over-run, it removeth into theſe Weſterne, and Northern parts:
+and happily it may take its flight into America: certainly it will
+not be extinct untill the worlds end, nor then neither, but per<g ref="char:EOLhyphen"/>fected
+in Heaven.</p>
+            <p>Laſtly,<milestone type="tcpmilestone" unit="unspecified" n="4"/> know we that in all theſe removes God taketh ſpeciall
+care of his Jewels, his choſen ones (who are his true Church) ma<g ref="char:EOLhyphen"/>keth
+them up, removeth them charily, uſually into Heaven, for
+hazzard of looſing them in the rubbiſh and lumber through often
+removes. From what is ſayed, it followeth for full ſatisfaction of
+the objection. Therefore even temporall governments, much
+leſſe Chriſts Church, depend not upon fate, humane ſtrength, and
+policy, but immediately upon Gods moſt wiſe and juſt provi<g ref="char:EOLhyphen"/>dence,
+and gracious diſpoſe; and therefore let no ſuch vain con<g ref="char:EOLhyphen"/>ceit
+take us off from making God our God, ſo our hope, refuge,
+and ſhelter, in whom we ſhall thus find a very preſent great and
+aboundant help in never ſo preſent, great, and aboundant troubles,
+which we meet withall, <hi>Pſal 60. 9. ad</hi> 12. excellent to our pur<g ref="char:EOLhyphen"/>poſe
+is that text. I ſay, make we him ſo, as we uſually make great
+ones our friends; by applying our ſelves in giving him all full con<g ref="char:EOLhyphen"/>tent
+that poſſibly we can, and ſo our ſelves ſhall be all made for
+ever.<label type="milestone">
+                  <seg type="milestoneunit">Meanes </seg>5</label> In particular take theſe Rules, as meanes thereunto:</p>
+            <p>Firſt, breake we off all league with our ſins which are ſo offen<g ref="char:EOLhyphen"/>ſive
+to God,<milestone type="tcpmilestone" unit="unspecified" n="1"/> untill when there is no comming to God; he heareth
+not ſinners.</p>
+            <p>Secondly,<milestone type="tcpmilestone" unit="unspecified" n="2"/> hanker not after other helpers, rely on him only, fully,
+truſting him in the uſe of ſuch meanes, as he preſcribeth and af<g ref="char:EOLhyphen"/>fordeth.
+God is jealous, will have no corrivall, nor allow thee (in
+this caſe) two ſtrings to thy bow. He who worketh all in all
+<pb n="32" facs="tcp:112651:19"/>
+muſt be unto thee all in all: <hi>Of, through, and to whom are all
+things, to him be all praiſe for ever.</hi> Rom. 11. 36.</p>
+            <p>Thirdly,<milestone type="tcpmilestone" unit="unspecified" n="3"/> to this end celebrate all his former great deliverances
+for his Church and choſen. Oh how <hi>David</hi> by ſongs of degrees
+pegged up his heart to an exact praiſing God this way.</p>
+            <p>Fourthly,<milestone type="tcpmilestone" unit="unspecified" n="4"/> let faith inferre from what God hath down to what
+he both can and will doe for the future: who is the ſame without
+change, if his wiſdome ſee cauſe, his goodneſſe will do it: hereby
+ſtrengthen thy faith, comfort thy ſpirit, take courage to endea<g ref="char:EOLhyphen"/>vour:
+ſo <hi>David</hi> argueth, <hi>God delivered me from the Lion, and the
+Beare,</hi>
+               <note place="margin">1 Sam. 17. 34, 35 2 Cor. 1. 10.</note> 
+               <hi>therefore will he alſo from this uncircumciſed Philiſtine.</hi> So
+<hi>Paul. God hath delivered us, doth deliver us, in whom we truſt that
+he will deliver us.</hi>
+            </p>
+            <p>Fifthly,<milestone type="tcpmilestone" unit="unspecified" n="5"/> be fervent, and frequent with God by prayer in all thy
+troubles; the more inſtant, the more and greater they be; and ſea<g ref="char:EOLhyphen"/>ſon
+them with briniſh teares of repentance for thy ſins, which
+provoke him to trouble us: This duty God ſo countenanceth, that
+<hi>Ahabs</hi> outſide humiliation ſhall have outward temporall ſalvatio<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <p>Laſtly,<note place="margin">1 Kin. 21. 29.</note> by faith, prayer, praiſe, repentance, and obedience, make
+God thy hope, refuge, and ſhelter, not only in, but alſo out of trou<g ref="char:EOLhyphen"/>bles,
+in the height of proſperity, if thou look for his help in the
+depth of adverſity; that ſo the duty may not be uncouth unto thee,
+nor thou to it, in time of need; that ſo alſo God may not ſeeme
+ſtrange, nor look ſtrange upon thee, when thou commeſt to him,
+but thou mayeſt have gained his care, and favour, and free recourſe
+to him in need; that ſo like wiſe thou maiſt rather prevent then
+remove troubles, which is the eaſier task: God will not preſcribe
+thee this Phyſick, if thou keep ſo conſtant a good diet; yea, thus
+ſmall diſtempers will ſweat forth by ſuch daily exerciſe, yea, and
+one or other greater diſtemper may be recovered by ſpeedie re<g ref="char:EOLhyphen"/>pentance,
+and God not proſcribe thee more bitter phyſicke.
+Finally, I ſay, diſcharge the duty, which this our Text preſcri<g ref="char:EOLhyphen"/>beth,
+and thou maiſt confidently inferre, as followeth, <hi>Thou nee<g ref="char:EOLhyphen"/>deſt
+not to feare, though the earth be removed,</hi> &amp;c.</p>
+            <p>God Almighties Bleſſing goe herewith.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112651:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
